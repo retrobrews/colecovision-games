@@ -1,0 +1,8 @@
+Game Pack 2 (2004 Daniel Bienvenu)
+
+After the first games compilation, I was thinking of making a second one. But, instead of games from an old book about games in BASIC, 
+I decided to do board games with the challenge of doing artificial intelligence. There are 4 bonus games ( to unlock ) in asection you
+can access by pressing 0 at the menu screen.
+
+http://www.ccjvq.com/newcoleco/
+http://www.colecovision.ca
