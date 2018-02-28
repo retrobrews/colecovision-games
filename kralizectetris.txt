@@ -1,0 +1,14 @@
+Kralizec Tetris
+by Team Pixelboy | 2017
+
+Relive all the excitement of Tetris on your ColecoVision console! 
+Maneuver the falling tetromino pieces to form full lines of blocks which are then removed from the pit. 
+The pieces keep coming endlessly, so you must avoid making mistakes that may cause a random stack of pieces to form. 
+Such a stack will cause the end of the game if it reaches the top of the pit! As you reach each new "shock" level, 
+the falling speed of the blocks is altered, adding to the game's difficulty. After mastering the single player mode, 
+challenge a friend with the two-player versus game!
+
+This game is part of the Team Pixelboy Budget Series.
+
+http://cvaddict.com/profile.php?gameid=349
+https://www.youtube.com/watch?v=vKZBze_yPoU

@@ -1,0 +1,8 @@
+Kobashi (2008 Dvik & Joyrex) [Playable Demo]
+
+I ported a MSX production I made a few years ago; Kobashi. It's a small game where you have to survive as a fish by eating the food dropped from the surface. 
+The original was ranked 2nd at the MRC Underwater Challenge and was released as a 8k rom, this version became 16k mostly due to removing the compression of data. 
+Anyway, hope you like it.
+
+http://atariage.com/forums/topic/133917-kobashi-colecovision/
+http://www.colecovision.ca

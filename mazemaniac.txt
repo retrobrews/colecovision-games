@@ -1,0 +1,15 @@
+Maze Maniac (2005 Charles-Mathieu Boyer)
+
+Maze Maniac is a homebrew game for the old colecovision system. The objective is pretty simple : get as fast as you can through each maze. 
+But I never said it was easy ! The difficulty increase with each maze. Sometimes, There are multiple exits so you have to decide which one might be faster. 
+There are also flames that can block you a passage and pits that appears to slow you down. You can also bring a friend to play with! 
+In all, there are seven modes of play. There is even an on-line ranking ! 
+When you complete a mode, you are given a code to be classed among the best !
+
+Maze Maniac was made possible using a lot of programs, utilities, code, documentation and help around the web.
+Most of these are from guys like Daniel Bienvenu, Marcel de Kogel, Neal Danner, Marat Fayzullin and John Dondzila. 
+Without them (and many others I might forget !), this game would have never existed.
+
+http://www.mazemaniac.com/
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=GXB87evG5g4
