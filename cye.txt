@@ -1,0 +1,20 @@
+Cye 1.0 (2007 Philip Klaus Krause) [Playable Demo]
+
+Cye is a clone of Kye, a Boulderdash-like game. It has 42 levels, 8 of them are two-player levels.
+The demo version has 11 levels (including 7 two-player levels).
+
+Some years ago, I wrote Cye, a puzzle game, which has some similaritites to Sobokan and Boulder Dash, and is essentially a port of Kye. 
+Unlike Kye, Cye has a simultaneous, cooperative two-player mode. 
+Since there were not many ColecoVision games of this type, and ColecoVision gamers tend to prefer arcade ports, I only made a limited run of 50 copies.
+But the game sold out very quickly, so I made 20 copies of Cye 1.1, which has the same gamplay as Cye 1.0, but nearly all single-player levels are different.
+A few years have passed. Cye 1.1 is sold out, the sdcc compiler and the other tools and libraries have improved since. 
+This made it possible to make Cye 1.2 with more levels than the previous versions. 
+Cye 1.2 includes all levels from Cye 1.1 and all except for 10 from Cye 1.0. 
+It also contains 2 new two-player levels, for a total of 41 levels. I also made some changes to the graphics, and updated the demo.
+
+More information on Cye and the demo can be found at
+
+http://www.colecovision.ca
+http://www.colecovision.eu/ColecoVision/games/Cye.shtml
+http://atariage.com/forums/topic/212188-cye/
+https://www.youtube.com/watch?v=PMzfJHK__v4

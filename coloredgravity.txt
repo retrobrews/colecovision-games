@@ -1,0 +1,14 @@
+Colored Gravity (2008 Philip Klaus Krause)
+
+There are two spaceships, each steered by a ColecoVision controller. At the top of the screen there are two numbers. 
+The upper one is energy left. Energy is lost when firing, changing color or being hit by a missile. 
+Energy recharges while the spaceship isn’t accelerating or decelerating. The other number is the reload. 
+You can’t fire or change color while it’s nonzero. There are three colors. Objects of different color attract each other.
+
+Left fire button: Fire missile of your current color.
+Right fire button: Try to change color.
+Joystick: Accelerate / Decelerate, turn spaceship.
+
+Spaceships and missiles bounce when hitting the border of the playing area.
+
+http://www.colecovision.ca

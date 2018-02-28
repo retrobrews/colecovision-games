@@ -1,0 +1,17 @@
+Death Race (2004 Dav) [Playable Demo]
+
+In the game, one or two players control an on-screen car with a steering wheel and an acceleration pedal. 
+The object is to run down "gremlins" who are fleeing the vehicle. 
+As the player hits them, they scream or squeal and are replaced on-screen by tombstones. 
+This increases the challenge of the game as the screen clutters up and the player has to avoid the tombstones.
+
+The cabinet is black with white graphics of a muscle car racing through a cemetery with a vulture in a tree looking on. The marquee and monitor bezel are colored. A limited number had white sides with the artwork in black, instead of the reverse. It was in an upright standard racing style cabinet.
+
+I cut the attract mode and second player out of my previous version. There's no sound yet since my sound card is not working at the moment.
+It's not completely accurate to the Exidy original, I've added a hi score display and I don't remember the peds having any sort of ai but it felt like they needed it. Also the original was all B&W I colorized the car and IIRC it the playfield wrapped on all sides, not sure though.
+I've tested it in mess only , haven't gotten around to trying it on the real thing.
+
+
+http://www.colecovision.ca
+http://atariage.com/forums/topic/56238-death-race-for-colecovision/
+https://www.youtube.com/watch?v=5WkcwcFLeC8
