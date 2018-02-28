@@ -1,0 +1,8 @@
+DP's Valentine Game (2002 Daniel Bienvenu) [No Alien]
+
+This is a one level guessing type of the game with letters.
+You have 5 lives, if you do a mistake you have one less.
+Guess who is your Valentine!
+Daniel created another copy of the game with green Alien when the game is loading.
+
+http://www.colecovision.ca

@@ -1,0 +1,19 @@
+Text Adventure (2015 Chris Derrig)
+
+Unlike most text adventure games, 2010 is not controlled by typing in verb-noun commands. 
+Instead the player uses the keyboard's six function keys (or smart keys as they are called on the Adam) to interact with the world. 
+The commands that are shown are context sensitive and depend on the situation, where the player is and what previous actions have been made. 
+Moving around is done by the directional key, and by pressing return the examine menu appears. 
+It consists of four options; to examine the area, its equipment, its items and any pods that are present. 
+By pressing the home key the player is able to camp. 
+
+Camping allows the player to organize items (picking up, dropping, examining them etc.), 
+check life support (status of food, water, rest, power and medical supplies), 
+recharging power and supplies, performing medical treatment and removing the spacesuit. 
+
+By successfully performing various activities the player earns points. 
+The current score is shown every time the player ends camping.
+
+Manual: http://atariage.com/forums/index.php?app=core&module=attach&section=attach&attach_id=156213
+http://www.colecovision.ca
+http://atariage.com/forums/topic/159970-2010-the-text-adventure-solution/
