@@ -1,0 +1,14 @@
+Kevtris (1996 Kevin Horton)
+
+Kevin is in addition to programs for ColecoVision also a clever gentleman to exploit for Atari 2600 and Atari Jaguar.
+He has, among other also modified joysticks for the Intellivision System.
+Kevin was one of the first to program a game to ColecoVision, namely Kevtris. and the game was released in 1996.
+
+Kevtris used only character graphics, because Kevin couldn't figure out how to use sprites at the time.
+But an MSX programming manual learned him later how that worked.
+There are Produced 100 cartridges of Kevtris, and there are no plans to ever publish more.
+
+http://www.colecovision.ca
+http://www.colecovision.dk/horton.htm
+https://www.youtube.com/watch?v=jEM_Hy91BYg
+https://www.youtube.com/watch?v=F8XRtIrOFpY

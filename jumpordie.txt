@@ -1,0 +1,8 @@
+Jump Or Die (2006 Daniel Bienvenu)
+
+Experimentation of a plateform engine with small sprites. You should know how to jump in order to collect all the keys. Coded in a single day, only 1 level.
+A one player action game published by Public Domain in 2006, developed by Daniel Bienvenu.
+
+http://www.ccjvq.com/newcoleco/
+http://atariage.com/forums/topic/93920-jump-or-die-colecovision-3k-version/
+http://www.colecovision.ca

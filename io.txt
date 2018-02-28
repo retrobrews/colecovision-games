@@ -1,0 +1,25 @@
+IO
+Feb 9 2017
+PkK (Philipp)
+
+With the changes made in the last few days, the game Io has become quite playable, so I decided to post the current development version, 0.10, here.
+
+Here's a quick description of some important screen elements:
+* "Sulphur in HQ": Shows the current amount of sulphur in the HQ (you loose when this reaches 0, and the sulphur storage capacity of the HQ
+* "Workers": Shows the number of free workers (i.e. those not currently working on a construction site) and the total number of workers
+* "HQ Level": Current HQ level. Higher levels increase the amount of workers and the sulphur consumption. You win the level by increasing this to 10.
+* "Toolbar": Shows the currently selected tool (same as cursor) and a clickable list of tools (you can also change the tool by using the right fire button). At certain moments,such as after changing the tool, the toolbar is briefly replaced by a display of the name of the new toll.
+* "Sulphur Source": Provides sulphur. The suplhur can be supplied to other storage locations, such as your HQ, when there is a road or rail connection.
+* "Rock": Construction is not possible here.
+* "Sulphur vent": Can be turned into a Sulphur Source by building a depot on top of it.
+* "Debug Info": Just some data to help me during development. Does not affect gameplay
+
+The main aspect of the game is to supply enough sulphur to your HQ by building a transportation network consisting of sulphur sources, depots, roads and rail.
+At the start of the game, you should first connect your sulphur source to the HQ. Rail connections have higher capacity than roads, but need more time to construct. 
+One unupgraded sulphur source supplies enough sulphur for one idle worker. Busy workers need twice as much.
+
+Philipp
+
+
+
+http://atariage.com/forums/topic/261988-homebrew-sulphur-mining-game-io/
