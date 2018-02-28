@@ -1,0 +1,29 @@
+Schlange CV 1.0 (2006 Philip Klaus Krause) [Playable Demo]
+
+
+Overview
+This is a port of the popular game Schlange/snake/nibbles to the Colecovision. 
+There are four snakes, controlled using the Colecovision controllers (two humans can play simultanously) or artifical intelligence which try to 
+avoid running into walls and eating stuff that keeps turning up on the field.
+
+Levels
+There are 45 different levels; during a game you play trough 23 randomly selected levels ordered with increasing difficulty.
+
+Artifical intelligence
+There are two different AI variants in the game.
+The first is a quite simple AI (AI S) which is strong in early levels, but will have difficulties with the increasing number of obstacles in higher levels.
+Then there is an advanced AI (AI <search depth>) searching for optimal paths. The search depth can be configured.
+
+Music
+At the beginning of each level music is randomly selected from 12 different melodies.
+
+Game rules
+A snake dies when it runs into another snake or the wall. When there are no snakes left the game is lost.
+
+The snake that wins most levels will win the game. A level is won if a snake reaches the winning lengths. Snake length increases when the snake eats a bonus. 
+There is a special bonus, which will halt all snakes except the one that ate it for a short time.
+
+
+http://www.colecovision.eu/ColecoVision/games/Schlange%20CV.shtml
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=KP3b643Ks3Q

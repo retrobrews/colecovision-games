@@ -1,0 +1,39 @@
+Rockcutter 32KB version
+Feb 28 2017
+Kiwi
+
+I decided to just release the 32KB version of Rockcutter today.  I don't feel like working on the Mega-cart 128KB version of Rockcutter for awhile, 
+so I think releasing a game on my birthday month would be better.  
+It is bankswitched already and reachable to the end of the game.  Music need to be finished and finalized.
+
+I'm not in the mood to work on the instruction manual or box art for awhile. I want the instruction manual to be awesome, so I'll worry about that later.
+The reason I'm releasing it is not an arcade style game or a well known game. I wanted more people to play it. 
+Based on the file creation date, I started on this game on July 17, 2014.  I "finished" the 32KB version last year. 
+It been playtested and I fixed most of the bug in the 32KB version.  
+Only 1 harmless bug is that when defeating the 2nd boss, the fish can swim higher passing through the wall.  
+I added reminder instruction on the final boss.  
+One of the playtester made it to the final boss and didn't use the cutters to slay the boss. 
+
+
+32KB exactly.  The level data get unpacked to 2800-37FF portion of the VRAM, so defective VRAM chips may not work well with this game. 
+ I think there's over 59 screens, I've lost track. :(
+This game is an platformer genre game.  The level becomes bigger and more non-linear as you progress, requiring you to explore every rooms to find 
+switches or defeat enemies to open the boss room gate to defeat the boss.  You can collect cutters dropped by enemies.  
+To toss them, just hold up and fire, like you would use sub-weapons in Castlevania.  
+Just remember, there's a timer ticking away to discourage farming them | :) .  
+There's a heart extension hidden in each level. 2 are out in the open, 3 have to be in a specific part of the map to make it appear.  
+There's treasure room in level 4 and 5.  If you didn't find the treasure in level 4, then the treasure in level 5 won't appear.  
+Collecting both will fully power up your cutter and make the final boss much easier.  Beating this game and pressing fire at the ending screen will enable hard mode.
+I added easier mode that give you more time and start the game off with 99 cutter, more time and plus 1 extra chance collected.  
+Pressing down and fire 2 at the title screen will give you those things.
+
+Here's the instruction demonstration gif taken from the bankswitched version.
+I would like to thank newcoleco for the awesome tools he made and documentation to help me understand C language and able to make games for the Colecovision. 
+I would like to thank my best friend VampGoddess for playtesting the hell out of this game and reporting bugs.  
+Groovybee for taking the time and looking over my code and found way to reduce the game size and buying back CPU cycle greatly.
+Also teaching me in the process.  I would like to thank betatesters for taking the time to play this game and giving me feedback. 
+ And thanking Collectorvision, retroillucid and colecomaster, for being awesome. I also want to thanks Kamshaft, TPR, chartz, ArcadeUSA, and NIAD for playtesting this game.
+
+Enjoy.
+
+http://atariage.com/forums/topic/262799-rockcutter-32kb-version/
