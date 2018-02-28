@@ -1,0 +1,9 @@
+Flapee Byrd
+by Collectorvision Games | 2014
+
+The objective is to direct a flying bird which moves continuously to the right, between each oncoming set of pipes without colliding with them, 
+which otherwise ends the game. The bird briefly flaps upward each time the player press fire. If fire is not pressed, the bird falls due to gravity.
+The player is scored on the number of pipe sets the bird successfully passes through, with medals awarded for the score.
+
+http://cvaddict.com/profile.php?gameid=204
+https://www.youtube.com/watch?v=0yNd6d4JWXA

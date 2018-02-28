@@ -1,0 +1,22 @@
+Deflektor Kollection (2005 Daniel Bienvenu)
+
+After fixing a curious bug with using the steering wheel, this project came out named Double Breakout at first. 
+It was later renamed to Deflektor Kollection because Atari sent us a warning. 
+They warned us not to use any of their trademarks like Breakout.
+
+Deflektor Kollection begins with eight rows of bricks, with each two rows a different color. 
+The color order from the bottom up is yellow, green, orange and red. 
+Using a single ball, the player must knock down as many bricks as possible by using the walls and/or the paddle below to ricochet 
+the ball against the bricks and eliminate them. 
+If the player's paddle misses the ball's rebound, he or she will lose a turn. 
+In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. 
+When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. 
+To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.
+
+The highest score achievable for one player is 896; this is done by eliminating two screens of bricks worth 448 points per screen. Once the second screen of bricks is destroyed, the ball in play harmlessly bounces off empty walls until the player relinquishes the game, as no additional screens are provided. However, a secret way to score beyond the 896 maximum is to play the game in two-player mode. If "Player One" completes the first screen on his or her third and last ball, then immediately and deliberately allows the ball to "drain", Player One's second screen is transferred to "Player Two" as a third screen, allowing Player Two to score a maximum of 1,344 points if he is adept enough to keep the third ball in play that long. Once the third screen is eliminated, the game is over.
+
+
+http://www.colecovision.ca
+http://cvaddict.com/profile.php?gameid=247
+https://en.wikipedia.org/wiki/List_of_ColecoVision_games
+https://www.youtube.com/watch?v=LeDpfplGo98
