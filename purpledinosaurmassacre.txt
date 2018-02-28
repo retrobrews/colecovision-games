@@ -1,0 +1,23 @@
+Purple Dinosaur Massacre (1996 John Dondzilla)
+
+Purple Dinosaur Massacre was Dondzila's first ColecoVision project.
+This is more or less a 2 player playable demo.
+Dondzila wasn't too crazy about how it looked and decided not to continue.
+
+The main objective with this game was to get some sprite programming experience.
+
+This will work on the emulator, however there is some keystroke.
+You have to use to seperate the Player 1 and 2 controller input so both sights won't work off the player 1 controls.
+
+The object of the game is to shoot as many Purple Dinos as possible before running out of ammo.
+Shoot the POW for extra ammo.
+The skill level increases every 10 dinos that you hit.
+There's no sound in the game- not that Dondzila can't do sound programming, he just didn't feel like continuing this game.
+
+So the game was never finished and have either no end.
+
+http://www.colecovision.dk/dondzila.htm
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=TTryI7MzLP4
+https://www.youtube.com/watch?v=5tap69naCGk
+https://www.youtube.com/watch?v=7WNu6thm-Fo

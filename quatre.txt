@@ -1,0 +1,13 @@
+Quatre (2013 Nicolas Campion)
+
+Quatre is a Tetris style game for ColecoVision by Nicolas "Nicam Shilova" Campion for one player.
+
+Controls :
+-Stick : Down, left an right to move the tetramino.
+-Left side button : Rotate tetamino to the left.
+-Right side button : Rotate tetamino to the right.
+-KeyPad : Select level.
+-* : Turn on/of music
+
+http://www.nicamshilova.fr/colecovision.html
+http://www.colecovision.ca
