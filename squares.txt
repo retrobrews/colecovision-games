@@ -1,0 +1,24 @@
+Squares! (2007 Harvey deKleine) [Playable Demo]
+
+Squares! is a fast-paced game where you need to avoid the other squares, anticipating their movement, to last as long as possible and obtain a high score.
+Throughout the game, the enemy squares will continuously bounce around the outer solid playfield. Your white square is bounded by the inner dashed playfield.
+Use the controller to guide your square away from enemy squares. Your score increases as long as your square is in play. 
+The gameplay will become more difficult as your score increases.
+
+You start with 5 squares (10 for the kid's version). If your square is hit by an enemy square, your square disappears, and the squares remaining will decrease. 
+If you have squares available, one will automatically appear near the top-left of the screen (after a short delay and when the area is clear of enemy squares). 
+Momentarily press the left fire button to make your square appear instantly. The game is over when you have no more squares available.
+Occasionally, a treasure will appear on the playfield (including fruit and other items). 
+If you catch the treasure, either you will be rewarded with an extra square, or you will be given invincibility and hyperspace credits.
+
+If you have available invincibility credits, you can press the left fire button to become invincible for 5 seconds. 
+During this period, you will not lose a life if your square makes contact with any of the enemy squares.
+
+If you have available hyperspace credits, you can press the right fire button to activate the hyperspace. 
+Your square will be moved to a new location in the playfield. 
+This is dangerous, however, as you may be placed directly on an enemy square, in which case you will lose a square.
+
+
+http://atariage.com/forums/topic/105496-squares-for-colecovision-new-release-for-sale/
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=zwS-XsEKIFA

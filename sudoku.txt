@@ -1,0 +1,11 @@
+Sudoku v02 (2008 Team Pixelboy) [Playable Demo]
+
+To solve a Sudoku puzzle, place a number into each cell so that each row, each column, and each small 3x3 box
+within the larger puzzle will contain every number from 1 to 9. In other words, no number may appear more than
+once in every row, column, or 3x3 box. The game is initialized with predefined numbers and the objective is to
+complete the puzzle with the missing numbers that will lead to the correct solution. The game features three
+levels of difficulty: Novice, Adept, and Master.
+
+http://www.colecovision.ca
+http://www.teampixelboy.com/sudoku.php
+https://www.youtube.com/watch?v=RBbhmqgPdQY
