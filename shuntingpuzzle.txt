@@ -1,0 +1,16 @@
+Shunting Puzzle (2007 Philip Klause Krause)
+
+This is a simple shunting puzzle for the ColecoVision. 
+It has two levels corresponding to the classic Inglenook and Timesaver shunting puzzles.
+Move the joystick forward / backward to move the engine.
+
+The first fire button activates and deactivates decoupling mode. 
+In decoupling mode a blue decoupling cursor appears and marks the decoupling position. 
+It can be moved along the train by moving the joystick left/right. 
+The second fire button decouples (and leaves decoupling mode).
+
+Switches can be operated using the numbers on the keypad. 
+Current switch positions are signaled by the point indicators next to the switches.
+
+http://atariage.com/forums/topic/152307-shunting-puzzle-for-the-colecovision/
+http://www.colecovision.ca

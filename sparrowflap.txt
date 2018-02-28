@@ -1,0 +1,45 @@
+Sparrow Flap 2016
+by Kiwi
+
+I always wanted to release a game on July 4th, so I decided to rework on a game that was already release on cart 2 years ago.  
+It is the bonus game that came on Flappe Bird cartridge.  I made this one because I like making adventure genre games, and 
+make a game that is more than 10 minutes long.  It more like a shoot'em style, but with bird dodging obstacles and defeating 
+enemies/bosses by bird dashing them into oblivion.  You have power-ups to help you on your quest.
+I stripped out the Flappy Bird stuff, and freed up space to add more cool stuff to it.  So I have about 12 KB free to add 
+stuff to it, plus there stuff that can be optimized to free up space for more stuff.  
+I wanted to add the volcano stage to it and more animation, enemies, and an ending sequence to it.  
+Plus I was in a mood to work on this project.  
+
+In these new ROM, I changed the rule that you don't warp back to the back of the level when you birddash into solid stuff.
+I added one control scheme that doesn't requires you to flap to keep your bird airborn.  
+It let you move in 4 direction and bird dash attack is mapped to FIRE 1 for those who want to use 1 button controller.  
+The first scheme, that requires to flap, is mapped to FIRE 2 and to joypad DOWN to bird dash(for 1 button controller). 
+And reduce damage done by enemies by 1.  Most enemies does 1 HP of damage, some like rock(2HP), and spikes(3HP) does more.  
+
+The game loops when you defeat the Firebird.  A letter H will appear on the lower window indicate that the game is on hard 
+more and enemies does 1 more point of damage, and the bats worth 100 more point and they are quicker on this difficulty.  
+And have to go through additional room in the cave level. Plus apples no longer falls from the trees. 
+And bosses have more health.
+
+VH is when the power up gems stop showing up other than the heart.  
+Enemies do more damage to you. Bats now worth 300 points and attack much quicker in this game.  
+Bosses are more quicker to attack and have more HP.  
+After defeating the Firebird, all of your powerup disappear to increase the difficulty.
+
+The game ends when you get 1 million points or run out of HP. 
+
+The gem comes in different colors in the original version due to lack of space, plus I used the color variable to determine what power up it does.
+pink - refill health
+yellow - temporary invincibly
+tan - grant cape to reduce bird dash delay
+green - give you health refill once your health is depleted
+purple - gives you 5000 points
+gray - gives you shield which increase your after hit invincibly
+
+BUGS: There's slight slowdown during the cave maze stage due to wall drawing routines and sometimes a phantom object will hit you after 
+destroying the rocky wall in the first cave.
+
+Enjoy and hopes everyone have a good 4th of July. 
+
+
+http://atariage.com/forums/topic/254474-kiwis-game-a-sparrow-goes-flapping-available-to-play/

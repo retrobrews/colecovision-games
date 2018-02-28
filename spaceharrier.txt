@@ -1,0 +1,25 @@
+Space Harrier Version 7 (2009 HardHat) [DEMO]
+
+Space Harrier from Wikipedia:
+Space Harrier is a fast-paced rail shooter game played in a third-person perspective behind the protagonist, 
+set in a surreal world composed of brightly colored landscapes adorned with checkerboard-style grounds and 
+stationary objects such as trees or stone pillars. At the start of gameplay, players are greeted with a 
+voice sample speaking "Welcome to the Fantasy Zone. Get ready!", in addition to "You're doing great!" 
+with the successful completion of a stage. The title player character, simply named Harrier, navigates a 
+continuous series of eighteen distinct stages while utilizing an underarm jet-propelled laser cannon 
+that enables Harrier to simultaneously fly and shoot. The objective is simply to destroy all enemies—who 
+range from prehistoric animals and Chinese dragons to flying robots, airborne geometric objects and alien 
+pods—all while remaining in constant motion in order to dodge projectiles and immovable ground obstacles.
+
+Fifteen of the game's eighteen stages contain a boss at the end that must be killed in order to progress to the next level;
+The final stage is a rush of seven past bosses encountered up to that point that appear individually and are identified by 
+name on the bottom of the screen. The two other levels are bonus stages that contain no enemies and where Harrier mounts 
+an invincible catlike dragon named Uriah,whom the player maneuvers to smash through landscape obstacles and collect 
+bonus points. After all lives are lost, players have the option of continuing gameplay with the insertion of an extra coin.
+As Space Harrier has no storyline, after the completion of all stages, only "The End" is displayed before the game returns to 
+the title screen and attract mode, regardless of how many of the player's extra lives remain.
+
+
+http://atariage.com/forums/topic/184410-space-harrier-released/
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=na1kNPrOHVo
