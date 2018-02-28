@@ -1,0 +1,120 @@
+AntiISDA Warrior (2004 Ventzislav Tzvetkov)
+by Ventzislav Tzvetkov
+
+Your server full with all those 20 years old ColecoVision warez software,
+of which nobody cares anymore since ages, unfortunately is being attacked 
+by some 
+ISDA agents and they want to format your only hard disk you ever
+owned (40MB).
+
+ They are attacking from various ports, so you have to aim your ping
+bombs 
+more precisely with the joystick. Press FIRE button to shoot.
+
+Good Luck.
+
+The game AntiISDA Warrior was first developed for Oric Atmos back in 2003. 
+The main idea of the game I got, when resembling one of the demo BASIC programs in the book which came bundled with my Pravetz-8D computer.
+Because of the simplicity of the gameplay concept and the ease of porting it, I made it possible on wide range of computer and console platforms.
+Some of the systems on which it is already available, I have never touched or developed for before. 
+One of these systems is the ColecoVision.
+The ColecoVision console, released in 1982, is very advanced, easy to program and capable games machine.
+But because of the videogames crash, it failed to gain enough popularity to sustain strong development for the next years. Only around 4 million units were sold.
+
+There is not much information or guides on how to program this popular in the 1980s console, but thanks to some experiments, plus trial and error,
+I compiled the first ROM, back in 2004. Even if I already had made Z80 assembler version of the game for the Sega Master System port,
+which used the same processor and similar graphics chipset, I decided to go with higher level programming language for programming the ColecoVision.
+
+The first version was finished on Amiga 4000 with Hitech C with help of the Daniel Bienvenu's and Marcel de Kogel tutorials, libraries and tools.
+Because I used the Amiga port of fMSX emulator for the testing, the game worked flawlessly only there, but refused to work on other emulators or real ColecoVision console.
+I fixed this with the use of SDCC, which is much faster and does not need the emulation of CP/M (I used emulated PC (with PC-Task), under CP/M {with 22nice}
+for the first version) for the compilation. The result is much smaller, cleaner and faster ROM. For the ColecoVision, I used pure ANSI C language and converting tools
+for making the graphics and sound data into C source code. The graphics are compressed with the RLE compression, which saves space on the ROM, at the expense of little 
+delay at the beginning, when decompressing the image data to the video RAM.
+
+AntiISDA Warrior game for the ColecoVision at the second level. The game goal and concept was kept intact on the ColecoVision as well.
+The story which I made by myself is still the same, only this time you are saving ColecoVision warez, which are going to be removed if you can not hold the attack.
+The game gets harder and harder with the levels passed, where the invaders go closer and closer to the missile (called pingbomb).
+The similarity to the game Space Invaders is not only coincidental, but here only the shots are movable, but not the enemies or the initial place for fire.
+To make the game colorful, I used all the ColecoVision palette, and the sound capabilities.
+The graphics are done on bitmap character screen, with redefined tiles for speed.
+If the attack is not hold, there is end screen with text, or if the attack is successfully removed, there is an outro text. 
+
+Credits:
+========
+
+  "AntiISDA Warrior" - is Copyright 2003-2009 © by Ventzislav Tzvetkov.
+
+  Reach me electronically at:
+ 
+   http://hirudov.com
+
+ This game is also available for  Dragon 32,  Commodore 64, Sega  Master
+ System, Vic-20, GameBoy, IBM-PC, Amiga, Sinclair ZX Spectrum, Apple  II
+ and Oric. Versions for other platforms are available  from my  website.
+
+-- 
+
+Legal Issues:
+=============
+
+  This software can be freely copied, as long as it remains in its
+ original form, and the archive is intact.
+
+  `AntiISDA Warrior' is provided  "AS-IS"  without any warranties.
+Although I did my best for it being bug free,  there still might be  some
+hidden ones, of which I am not aware. That's why I am NOT responsible for
+any damages caused by this software.
+
+-- 
+
+Sources:
+========
+
+The sources are available for every specific platform in the particular
+archives.
+
+The ColecoVision version was developed using SDCC, plus tools and
+libraries by Daniel Bienvenu's and Marcel de Kogel. Tested with ColEm Amiga
+v1.0 Release 5 and MEKA 0.73 WIP.
+
+The Dragon 32 version was written directly on DREaM V1.0 by Sean Siford.
+Alex in Town Level Editor V1.2 by Ventzislav Tzvetkov was used  for  the
+title logo and MESS v0.81 by the MESS Team for some additional tests.
+
+The Commodore 64 version was assembled with dasm v2.14.04 and tested under
+MagiC64. The graphics were drawn with Personal Paint 7.1b  by  Cloanto and
+converted to Koala paint format.
+
+The Sega Master System version was assembled with WLA-DX 7.1. For
+testing AmiMasterGear v0.82 was used. Some other tools used are:
+Mod2PSG V1.8 by Martin Konrad, Personal Paint 7.1b  by  Cloanto,
+VBCC v0.8 by Volker Barthelmann and many other.
+
+The Vic-20 version was assembled with dasm v2.12.04. For testing
+VicEmu 0.70 and for text editor, Cygnus-Ed Pro V4.17 were used.
+
+The GameBoy version was compiled with GBDK v2.1.0-1. For testing
+Wzonka-Lad and AmiGameBoy emulators were used. For text editor,
+Cygnus-Ed Pro V4.17 was used.
+
+The PC version was compiled with Borland Turbo C++ v1.01, on PC-Task 4.4.
+For text editor, Cygnus-Ed Pro V4.17 was used, and for writing to the
+hardfile - mshf.device from PCx v1.1.
+
+The Amiga version was compiled with VBCC v0.8. EditPad was used for
+text editor and Personal Paint 7.1 for some drawings.
+
+The Apple 2 version was written directly on Apple2000e (The Apple 2e
+emulator for Amiga), and compiled with TASC compiler.
+
+The Oric version was written directly on AmOric V1.5 - the Oric emulator
+for Amiga.
+
+The Sinclair version was written directly on ZXAM 2.0B - Sinclair ZX
+Spectrum emulator for Amiga.
+
+-- 
+
+http://www.colecovision.ca
+http://hirudov.com/others/AntiISDA_CV.php

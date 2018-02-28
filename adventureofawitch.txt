@@ -1,0 +1,59 @@
+Adventure Of A Witch - The Flightful Night 
+by Chris Derrig (Kiwi)
+(2015 Chris Derrig) [WIP]
+
+It's not 100% complete.  I need to complete the title screen, Kiwi screen, supplemental sprites to be added to the end screen, and add music.  
+Also I need to fix one of the digit on the End screens.  
+If you leave it at the title screen, you can see the introduction story, the instruction screen, and the scroll description screen.
+There's a dozen end screens to see depending what your score is.  Also, a special end screen if you managed to destroy many trees with your magic.
+This game is a challenge for me to port over due to graphical limitation, and have many sprites on screen while detecting you.
+Also load handling to prevent NMI currupting the graphic.
+I'm using 4 invisible sprites to have the tree scroll in from the above, so if you're using F18A and using the 32 sprites allowed jumper, 
+you'll see trees popping in from the top. 
+Enjoy, and have a happy Halloween!
+
+This is the Adventure of a Witch:The Flightful Night. I made this game to show appreciation to my sister and Halloween. 
+It one of my many ways to show appreciation to people I like. I spent the entire October building this game. 
+This game is released a day after my third niece's birthday. It was really fun building this game with a rush of ideas from myself and Cherry.
+I made an arcade style of a slideshow of screen that is in a style of an arcade in the eighties, which is an attract mode.
+I have made the developer's screen. I love that Sega's had different logo animation in their games so I decided to do the same for my games. 
+I planned to make different logo animation screens for each of my games that I make.
+The Title Screen. I kept it simple. I decided to do crediting here. Cherry is my girlfriend which I let her test play it, give me ideas and feedback of my game. 
+I wrote why I made this game on this screen too.
+The story screen, wanted to know why she couldn't fly higher than the trees? This should fix that plot hole.
+The information screen, Which gives you direction how to play this game along with sprite animated to zoom into their place.
+The scroll information screen. I was going to make this one of the ending screen, but I didn't want to remake this screen, 
+but one of the ending tells you the secret how to get the alternate information. 
+This alternate information was also in my mind, but I was happy that I was able to make this idea work.
+Only thing I also wanted to make a demostration. It's possible, but it requires more clever programming. 
+I was really impressed by Activision programming skill when they made Pressure Cooker demostration on a Atari 2600. 
+Maybe in future version, I will put this in.
+The gameplay, the goal is to score high as possible, like an old arcade game. You have to dodge trees. 
+You can collect scrolls to help you with your journey. You have the star magic(push A) that let you consume one MP to shoot stars to destroy tree in your path. 
+Each tree you shot have the chance netting up to 3000 points per tree.You also have the bomb magic(push X) that blows up all the trees active on screen. 
+You will earn 250points for each trees blown up by the bomb magic.
+The ending screens, I wanted to get players hooked into playing this game to view different endings. The amount of scores will determine what screen it will show. 
+I really love how Startropic ending had different screenshots of the game in another perspective, also still using the tiles to build the screen.
+I wanted to put more stuff in this game, like fixed levels. Beginning story, where the witch was flying high and then there will be message showing up, dodge lightning.
+Then it immediately strike the witch. Basically, I wanted to make a home version. I would begin the game with the witch looking for her broom. 
+Then go out flying to get shocked. Then fly through fixed level dodging trees and other object that are trying to knock the witch off her broom. 
+Finally, stopping at a house turning me into a mouse.
+Cherry had some wonderful ideas to make this area a fall themed area. So I added RND(14) in place of the tree sprite colors which was 4. 
+Then made a 20 tiles pool for the RND() to pick from randomize the ground. She had a ton of other ideas too that didn't make it into the game.
+She suggested to make a tree that take more than one hit to destroy. But the game progressively get harder and tree will be piling onto the screen like crazy.
+Plus, limited amount of ammo. I did make a pine tree to randomize the tree graphics.
+I had to make several decisions. The main decision I had to make, is to decide how long to let the player play for. 
+The Star Scrolls is one of the most common scrolls dropping, and it'll start to drop less frequence as you play longer. 
+The Moon Scrolls reduce the next drop rate, which is also determines your fate in this game. I had to decide how many MP the Star Scroll give out.
+I went back and forth using 3 or 4 MP. 4MP fills up the MP meter too quickly, so 3 is the magic number(like most old school games).
+I did increase the Sun Scroll donation from 5 to 8 MP at the last minute since sun is basically a big size version of a star in reality.
+I had a lot of fun making this game. I always dream of making games for NES, Super NES, Gameboy when I was a kid.
+I had notebook fill with video game map and made it around the Gameboy screen limitation. Smileboom really made my dream come true.
+This is the second game I made out of Petit Computer. I'm working on the main one I was producing.
+I will likely reuse the game's kernel to build a shoot-em up game.
+
+http://atariage.com/forums/topic/245116-adventure-of-a-witchthe-flightful-night/
+http://petitcomputer.wikia.com/wiki/Adventure_of_a_Witch:_The_Flightful_Night
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=a4cB_TYwTis
+https://www.youtube.com/watch?v=MapZ-36puZs

@@ -1,0 +1,9 @@
+Bejeweled (2002 Daniel Bienvenu)
+2002
+
+Author's Comments: "January 2002, at university, a friend wanted to show me an online game he likes and dare me to make one for the ColecoVision.
+Accepting the challenge, I've coded a first version in no time. However, studies first, I had to do my homework and forget about this game, 
+until Mathieu Proulx asked to work on a videogame project with me so I suggested him to complete this one, and this is the result."
+
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=inMAOtHvJQY

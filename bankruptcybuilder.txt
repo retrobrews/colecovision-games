@@ -1,0 +1,10 @@
+Bankruptcy Builder (2008 Philip Klaus Krause)
+
+Overview
+This is a construction company simulation game. You assign four construction teams with different skills to construction sites, always trying to get 
+construction projects completed in time to be able to pay the wages. The game has a simultaneous two-player mode
+
+http://www.colecovision.eu/ColecoVision/games/Bankruptcy%20Builder.shtml
+http://www.colecovision.ca
+http://atariage.com/forums/topic/131079-bankruptcy-builder-colecovision-homebrew/
+https://www.youtube.com/watch?v=l55tqjUpCIM
