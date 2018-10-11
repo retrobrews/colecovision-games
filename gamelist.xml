@@ -6,7 +6,7 @@
           <desc>This game is popular in Europe. It is played with three dice and it is not uncommon to find special porcelain boxes, marked with the dice numbers 4-2-1.</desc>
           <image>./421.png</image>
           <rating>0</rating>
-          <releasedate>20020000T000000</releasedate>
+          <releasedate>20020101T000000</releasedate>
           <developer>Mathieu Proulx</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>2</players>
@@ -30,7 +30,7 @@
           <desc>Aerial battle - action/simulation type of game.</desc>
           <image>./airbattle.png</image>
           <rating>0</rating>
-          <releasedate>20020000T000000</releasedate>
+          <releasedate>20020101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -54,7 +54,7 @@
           <desc>A.E.'s- deadly flying rays from an alien world. They hunt in swift "killing packs" and their sting is deadly. You've got to blast them with your twin-barreled Stun Gun before they zap you.</desc>
           <image>./antienvironmentencounter.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -78,7 +78,7 @@
           <desc>This must be the most dangerous job in the west! You've recently been recruited as the town's newest sheriff, but that shiny new badge of yours does nothing to scare away the crooks! The local bank is often the target of surprise bank robberies, and you've decided to take the bull by the horns and stand guard as the bank's self-appointed security officer, to shoot the robbers as soon as they show their ugly faces. But be careful! Shoot a regular customer, get shot by a robber, or allow bombs to go off and you'll be out of a job faster than you can say "skedaddle"!</desc>
           <image>./bankpanic.png</image>
           <rating>0</rating>
-          <releasedate>20110000T000000</releasedate>
+          <releasedate>20110101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -102,19 +102,31 @@
           <desc>Battleship is a guessing game for two players. It is played on ruled grids (paper or board) on which the players fleets of ships (including battleships) are marked, and the objective of the game is to destroy the opposing player\'s fleet.</desc>
           <image>./battleship.png</image>
           <rating>0</rating>
-          <releasedate>20030000T000000</releasedate>
+          <releasedate>20030101T000000</releasedate>
           <developer>Mathieu Proulx</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Battleship</genre>
       </game>
+       <game>
+          <path>./bejeweled.rom</path>
+          <name>Bejeweled</name>
+          <desc>The objective of this game is to swap one gem with an adjacent gem to form a horizontal or vertical chain of three or more gems of the same color. Bonus points are given when chains of more than three identical gems are formed and when two chains are formed in one swap. Gems disappear when chains are formed and gems fall from the top to fill in gaps. Sometimes chain reactions, called cascades, are triggered, where chains are formed by the falling gems. Cascades are awarded with bonus points. There are two variations of the game to choose from.</desc>
+          <image>./bejeweled.png</image>
+          <rating>0</rating>
+          <releasedate>20020101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Bejeweled</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./beyondterra.rom</path>
           <name>Beyond Terra</name>
           <desc>Fighter Pilots Needed! For Galaxy Wars! Play...</desc>
           <image>./beyondterra.png</image>
           <rating>0</rating>
-          <releasedate>20090000T000000</releasedate>
+          <releasedate>20090101T000000</releasedate>
           <developer>Scott Huggins</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -126,7 +138,7 @@
           <desc>Only the best of adventurers can hope to find the Black Onyx! For generations, warriors and adventurers have been drawn to the town of Utsuro to challenge the dangers of its underground tunnels, in hopes of finding the legendary Black Onyx, a stone said to give eternal youth and great wealth to its owner. Your small party of adventurers has just arrived in this town of many mysteries, and already you can smell the danger lurking at every turn. Buy equipment and hone your fighting skills, as you will need them to survive and gain experience during your quest. Prepare to engage battle with many monsters, each one more blood-thirsty than the last. Can you beat the odds and find the fabled magical stone?</desc>
           <image>./blackonyx.png</image>
           <rating>0</rating>
-          <releasedate>20130000T000000</releasedate>
+          <releasedate>20130101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -138,7 +150,7 @@
           <desc>Take to the skies as you play the part of the intrepid hero Bomb Jack, the man without fear, as he indulges his incurable hobby of bomb collecting.</desc>
           <image>./bombjack.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Michel Louvet</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -150,7 +162,7 @@
           <desc>Manual labour has never been this much fun! Winning the heart of the girl of your dreams is no piece of cake, especially considering the girl in question has expensive tastes! Earn money by pushing crates inside bizarre warehouses into their intended positions. You can only push crates, not pull them, so be careful not to push a crate into a position where it can no longer be moved!</desc>
           <image>./boxxle.png</image>
           <rating>0</rating>
-          <releasedate>20150000T000000</releasedate>
+          <releasedate>20150101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -162,7 +174,7 @@
           <desc>In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.</desc>
           <image>./breakout.png</image>
           <rating>0</rating>
-          <releasedate>19990000T000000</releasedate>
+          <releasedate>19990101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -174,7 +186,7 @@
           <desc>The Buck Rogers space ship is in your hands! Step into the command seat of the Buck Rogers fighter for a true space adventure! Follow Buck's journey as you set out for the Planet of Zoom. An alien intelligence has taken control of the area. You must get there before the alien force devastates the planet. Buck's problems are now your problems: Fleets of alien spacecraft keep you from getting to the planet quickly and safely!</desc>
           <image>./buckrogerssupergame.png</image>
           <rating>0</rating>
-          <releasedate>20130000T000000</releasedate>
+          <releasedate>20130101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -186,7 +198,7 @@
           <desc>Take to the track and become a top racer. Race on all 8 tracks in your new car. You can enjoy all the thrill of a brand new sports car from Santander Consumer USA without having to get an auto loan. Hop into the drivers seat by yourself or with a friend.</desc>
           <image>./burnrubber.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -198,7 +210,7 @@
           <desc>4 Minigames: Diamond Dash - Goal is to extract enough diamonds; Easter Bunny - attack and collect all the eggs on the screen; Space Hunter - you are being attacked and need to defend yourself quickly; Get Booty - Your job is to use your precision gunning skills to disable the ship by hitting the base.</desc>
           <image>./canadianminigames.png</image>
           <rating>0</rating>
-          <releasedate>20080000T000000</releasedate>
+          <releasedate>20080101T000000</releasedate>
           <developer>Wick-Foster-Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -207,10 +219,10 @@
         <game>
           <path>./caterpillarsos.rom</path>
           <name>Caterpillar S.O.S.</name>
-          <desc>Move Buldozer up, down, right or left. Push dirt piles from right or left to get profit. Send oil sample by pushing side button. Go to "CAT DLR" for repairs. Buldozer cannot cross dirt plies vertically. Breakdown will occur, if repair & SOS warnings are ignored.</desc>
+          <desc>Move Buldozer up, down, right or left. Push dirt piles from right or left to get profit. Send oil sample by pushing side button. Go to "CAT DLR" for repairs. Buldozer cannot cross dirt plies vertically. Breakdown will occur, if repair and SOS warnings are ignored.</desc>
           <image>./caterpillarsos.png</image>
           <rating>0</rating>
-          <releasedate>20110000T000000</releasedate>
+          <releasedate>20110101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -222,7 +234,7 @@
           <desc>In the year 2045, The European Space Agency launched the second of two spaceships to Saturn's largest moon, Titan. The first mission was scrubbed after all contact was lost with the spaceship launched five years before. Upon arriving on Titan, the crew of the second mission found the wreckage of the lost spaceship, which had apparently been damaged by an unexpected dense rock belt upon entry into Titan's atmosphere. Important supply components were scattered all over the moon, and it's now the job of Astro Willy to gather these components which are vital to the mission. Guide Astro Willy through the perilous caverns of Titan, as he recovers the scattered components. But be quick about it! Astro Willy's oxygen reserves are very limited!</desc>
           <image>./cavernsoftitan.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -234,7 +246,7 @@
           <desc>Role-playing type game in French.</desc>
           <image>./chateaududragon.png</image>
           <rating>0</rating>
-          <releasedate>20010000T000000</releasedate>
+          <releasedate>20010101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -246,7 +258,7 @@
           <desc>Arcade platform game in which the player controls a clown named Charlie. Guide Charlie and help him reach the end of each stage, and rack up points along the way! One wrong move and it's bye bye Charlie! Mess up too many times and Charlie will get fired!</desc>
           <image>./circuscharlie.png</image>
           <rating>0</rating>
-          <releasedate>20020000T000000</releasedate>
+          <releasedate>20020101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -258,7 +270,7 @@
           <desc>You are PacSnake, a first-rank member of the glorious PacHound group, and you've been assigned to an important mission. Your orders are to break into the Ghost Heaven fortress, a high security area full of evil ghosts. Once inside, you have to eat all the blips (i.e. the yellow dots) scattered across the area. Try to avoid the patrolling ghosts, as they take no prisonners! Gobble up power icons that give you special powers for a limited time. Find keycards and other items to advance in your mission. Contact your superior over the radio at any time to get clues and intel. When all areas are clear, your mission will be complete. Good luck, soldier!</desc>
           <image>./coldblood.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -270,7 +282,7 @@
           <desc>RPG prototyped vaporware game.</desc>
           <image>./colecovisionrpg.png</image>
           <rating>0</rating>
-          <releasedate>20060000T000000</releasedate>
+          <releasedate>20060101T000000</releasedate>
           <developer>Bruce Tomlin</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -318,7 +330,7 @@
           <desc>After having lost the battle at Xunor, you have to defend your postion of commander of the mighty Cosmo Fighers. Here's your oportunity to prove you're still the best!</desc>
           <image>./cosmochallenge.png</image>
           <rating>0</rating>
-          <releasedate>19970000T000000</releasedate>
+          <releasedate>19970101T000000</releasedate>
           <developer>Marcel de Kogel</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -330,7 +342,7 @@
           <desc>A giant spaceship is threatening to attack the planet Xunor and capture its inhabitants. As commander of the mighty Cosmo Fighters, you are given the task of eliminating this evil force and returning peace to the galaxy. But this mission won't be an easy one! To reach your goal, you must fight your way through various stages, each filled with advanced enemy fighters, grouping together to prevent you from finishing your mission successfully.</desc>
           <image>./cosmofighter2.png</image>
           <rating>0</rating>
-          <releasedate>19970000T000000</releasedate>
+          <releasedate>19970101T000000</releasedate>
           <developer>Marcel de Kogel</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -342,7 +354,7 @@
           <desc>As commander of the Cosmo Fighters, you have successfully defended the planet Xunor from an Alien Attack in Cosmo Fighter 2. Unfortunately, you have failed to destroy the enemy fleet entirely. And now, after two years of peace in the galaxy, it's back and once again seeking destruction! Again, you'll have to face a dangerous fleet of enemy fighters before facing the final challenge...</desc>
           <image>./cosmofighter3.png</image>
           <rating>0</rating>
-          <releasedate>20010000T000000</releasedate>
+          <releasedate>20010101T000000</releasedate>
           <developer>Marcel de Kogel</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -354,7 +366,7 @@
           <desc>You are trying to pass the final training required to become one of the Cosmo Fighters. Carefully maneuver your ship trough the asteroid field and prove you're a worthy pilot.</desc>
           <image>./cosmotrainer.png</image>
           <rating>0</rating>
-          <releasedate>19970000T000000</releasedate>
+          <releasedate>19970101T000000</releasedate>
           <developer>Marcel de Kogel</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -366,7 +378,7 @@
           <desc>Cye is a clone of Kye, a Boulderdash-like game. It has 42 levels, 8 of them are two-player levels.</desc>
           <image>./cye.png</image>
           <rating>0</rating>
-          <releasedate>20130000T000000</releasedate>
+          <releasedate>20130101T000000</releasedate>
           <developer>Philip Klaus Krause</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -378,7 +390,7 @@
           <desc>PACMAN clone. The player controls a circular character which has a pie wedge shaped mouth to eat pellets through a maze, eating dots.</desc>
           <image>./dacman.png</image>
           <rating>0</rating>
-          <releasedate>20000000T000000</releasedate>
+          <releasedate>20000101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -390,7 +402,7 @@
           <desc>The plan was simple: To break into the Danger Tower and steal the world's largest diamond. But after disabling the main alarm system, finding your way to the basement and grabbing the treasure, you tripped over a secondary alarm and a horde of holobots were activated. A single electrified touch of these holobots can kill you, so you have to evade them long enough for the floor timer to count down to zero and see the stairway to the next floor appear. You must survive through all 15 floors in order to reach the top of the tower and escape!</desc>
           <image>./dangertower.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -414,7 +426,7 @@
           <desc>Once upon a time, an evil wizard stole a royal amulet and used it to cast a curse on the country's royal family. To make sure the curse would never be lifted, he hid the amulet in the Deep Dungeon, an underground lair guarded by vile creatures. Years later, after discovering your ties to the monarchy, you were told that you could claim the throne if you could only retrieve the royal amulet and break the wizard's curse. Figuring that the curse will find a way to ruin your life eventually, you venture down the stairways of the Deep Dungeon and face its terrible dangers, armed only with the hope of finding the amulet and restoring the honor of your cursed family. Can you survive long enough to succeed?</desc>
           <image>./deepdungeonadventure.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -426,7 +438,7 @@
           <desc>In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.</desc>
           <image>./deflektorkollection.png</image>
           <rating>0</rating>
-          <releasedate>20050000T000000</releasedate>
+          <releasedate>20050101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -438,7 +450,7 @@
           <desc>Destructor is a video game published in 1984 on ColecoVision by Coleco Industries, Inc.. It's a racing / driving game, set in a sci-fi / futuristic theme.</desc>
           <image>./destructor.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -450,7 +462,7 @@
           <desc>A gem-collecting quest that's out of this world! Your starcruiser lands in the hostile alien city of Araknid to collect precious Crystals needed desperately on Earth. Your equipment: the mighty Ram-car. Use your Ram-car to bump Krystaloids, transforming them into precious Crystals!</desc>
           <image>./destructorsce.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -462,7 +474,7 @@
           <desc>Dig five mountains with dynamites as fast as you can in this incredible 4k game where you can't die but can be stuck.</desc>
           <image>./diamonddash.png</image>
           <rating>0</rating>
-          <releasedate>20040000T000000</releasedate>
+          <releasedate>20040101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -474,7 +486,7 @@
           <desc>Join the search for buried treasures of sparkling gold and shining emeralds. With chomping front jaws, your motorized Digger Mobile puts you in the driver's seat. Tunnel out free form mazes, outsmart the wide-eyed Nobbins and race to collect precious gems. Count on your wits - you'll need them!</desc>
           <image>./digger.png</image>
           <rating>0</rating>
-          <releasedate>20140000T000000</releasedate>
+          <releasedate>20140101T000000</releasedate>
           <developer>Mystery Man</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -486,7 +498,7 @@
           <desc>In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed.</desc>
           <image>./doublebreakout.png</image>
           <rating>0</rating>
-          <releasedate>20030000T000000</releasedate>
+          <releasedate>20030101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -498,7 +510,7 @@
           <desc>This special adaptation brings home all the excitement of the legendary arcade game and gives you even more control over the action! Lead Dirk the Daring on his quest to rescue beautiful Princess Daphne, who's been imprisoned in a crystal ball by the evil dragon. To complete this noble mission, you'll need courage and quick reflexes! Fend off supernatural forces with your sword or use your wits to escape. Swing on a rope over fiery chasms. Fight fierce battles with the dreaded Phantom Knight and cunning rat guards. Find a way to survive and you'll take on the most deadly foe of all, the diabolical dragon himself!</desc>
           <image>./dragonslair.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -510,7 +522,7 @@
           <desc>You are the Easter bunny in charge to collect the eggs but one bird decided that's enough and try to stop you.</desc>
           <image>./easterbunny.png</image>
           <rating>0</rating>
-          <releasedate>20070000T000000</releasedate>
+          <releasedate>20070101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -522,7 +534,7 @@
           <desc>The objective is to direct a flying bird which moves continuously to the right, between each oncoming set of pipes without colliding with them, which otherwise ends the game. The bird briefly flaps upward each time the player press fire. If fire is not pressed, the bird falls due to gravity. The player is scored on the number of pipe sets the bird successfully passes through, with medals awarded for the score.</desc>
           <image>./flapeebyrd.png</image>
           <rating>0</rating>
-          <releasedate>20140000T000000</releasedate>
+          <releasedate>20140101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -534,7 +546,7 @@
           <desc>Greetings Colonel, rescue 4 prisoners, collect keys to escape.</desc>
           <image>./frantic.png</image>
           <rating>0</rating>
-          <releasedate>20080000T000000</releasedate>
+          <releasedate>20080101T000000</releasedate>
           <developer>Scott Huggins</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -546,7 +558,7 @@
           <desc>Each player controls a frog in a lily pond. Flies wander around overhead, and you jump up and try to eat them. Each fly is worth two points. Two lily pads are the platforms. If you land in the water, your frog will swim back to a pad. Each round lasts three minutes, and as the game goes on, day turns into night. Finally, both frogs jump offscreen, and a firefly drags a "The End" sign to the middle of the screen. If you leave a frog alone for 15 seconds, the computer will control it. This leads to an Attract Mode, with the computer playing itself. </desc>
           <image>./frogfeast.png</image>
           <rating>0</rating>
-          <releasedate>20080000T000000</releasedate>
+          <releasedate>20080101T000000</releasedate>
           <developer>Robert</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -558,7 +570,7 @@
           <desc>Uses a standard controller. Test your courage in action-packed combat! You're a lonely infantryman, fighting through treacherous terrain. The enemy comes at you from all sides. Counterattack with your pistol and grenades before it's too late! The battleground changes constantly. Watch out for deadly land mines! When enemy tanks close in, leap into your own tank! Your ultimate mission: Reach and destroy the enemy's fortress.</desc>
           <image>./frontlinesce.png</image>
           <rating>0</rating>
-          <releasedate>20150000T000000</releasedate>
+          <releasedate>20150101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -570,7 +582,7 @@
           <desc>Part survivor, part architect, part nuts, Frostbite Bailey eats raw fish for sustenance but really dines on danger! Help him construct igloos by jumping on floating blocks of ice! Each igloo must be completed before the weather gets too cold, but this is certainly no easy task, as Frostbite must not only contend with water currents that make the ice blocks move in different directions, he must also avoid wild animals like snow geese, king crabs, killer clams and a bear that follows him like a shadow on the shore! Stay one step ahead of all the hazards and survive to reach the highest possible score!</desc>
           <image>./frostbite.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -582,7 +594,7 @@
           <desc>Compilation of games, most of them are adaptations of simple games in BASIC from an old book for the Oric computer.</desc>
           <image>./gamepack1.png</image>
           <rating>0</rating>
-          <releasedate>20020000T000000</releasedate>
+          <releasedate>20020101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -594,7 +606,7 @@
           <desc>Board games with the challenge of doing artificial intelligence. There are 4 bonus games ( to unlock ) in asection you can access by pressing 0 at the menu screen.</desc>
           <image>./gamepack2.png</image>
           <rating>0</rating>
-          <releasedate>20040000T000000</releasedate>
+          <releasedate>20040101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -606,7 +618,7 @@
           <desc>You'll have to set the cannon to shoot and sink the ship. But time is pressing.</desc>
           <image>./getbooty.png</image>
           <rating>0</rating>
-          <releasedate>20050000T000000</releasedate>
+          <releasedate>20050101T000000</releasedate>
           <developer>Dale Wick</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -618,7 +630,7 @@
           <desc>You are a fearless GHOSTBLASTER. Your job is to help your clients by ridding their homes of unwanted ghosts and phantoms, and the magical gems that attract them. But be careful, these prank-playing ghosts and phantoms not only affect the home's structure, but they will be quick to attack if they think for even one second you are trying to stop them or remove their magical gems.</desc>
           <image>./ghostblaster.png</image>
           <rating>0</rating>
-          <releasedate>20090000T000000</releasedate>
+          <releasedate>20090101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -630,7 +642,7 @@
           <desc>Fight against opponent to get higher strength. </desc>
           <image>./frogmagi.png</image>
           <rating>0</rating>
-          <releasedate>20020000T000000</releasedate>
+          <releasedate>20020101T000000</releasedate>
           <developer>Dale Wick</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -642,7 +654,7 @@
           <desc>Help little Papri win the heart of Minto, the boy of her dreams! Love is in the air in Papri's garden, as she secretly dreams of dating Minto, the local dream boy. Luckily, Minto loves flowers, and Papri's garden is filled with them, so all she has to do is collect enough of them and give them to Minto to gain his affection.</desc>
           <image>./girlsgarden.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -653,7 +665,7 @@
           <name>Golgo 13</name>
           <desc>Only Golgo 13 can free the hostages onboard the runaway trains! As Japan's best professional hit-man, code-named Golgo 13, you've been hired by local authorities, as a last resort, to free a group of passengers held captive onboard a number of runaway trains. In this emergency situation, there's only one way you can carry out your contract: You must drive your car alongside each train, and use your M-16 rifle to break the train's windows, in order to let the hostages escape. However, not only must you contend with incoming traffic of trains and cars that block your line of fire, you must also watch out for hostile helicopters bent on stopping you dead in your tracks. This is certainly one of Golgo 13's toughest missions!</desc>          <image>./golgo13.png</image>
           <rating>0</rating>
-          <releasedate>20110000T000000</releasedate>
+          <releasedate>20110101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -677,7 +689,7 @@
           <desc>Destroy the 8 fortresses of the Gulbas empire! As the best pilot of the fleet, you have been given control of an advanced prototype star-fighter code-named Zaiigar. Your mission - and Earth's last hope - is to destroy the 8 fortresses and turn the tide of this war.</desc>
           <image>./gulkave.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -689,7 +701,7 @@
           <desc>Shooting game.</desc>
           <image>./happyhalloween.png</image>
           <rating>0</rating>
-          <releasedate>20010000T000000</releasedate>
+          <releasedate>20010101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -701,7 +713,7 @@
           <desc>Collect crystals and avoid ghosts.</desc>
           <image>./hauntedcaves.png</image>
           <rating>0</rating>
-          <releasedate>20130000T000000</releasedate>
+          <releasedate>20130101T000000</releasedate>
           <developer>Nicolas Campion</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -713,7 +725,7 @@
           <desc>Believe it or not, one of the most important japanese game companies is planning a ColecoVision revival! They want to use one of their classic franchises, but they're not sure which one to pick. After several hours of debate, it was decided that the main characters of these franchises would square off in a Flip Shot tournament, and the winner will see his game released on Coleco cartridges. Up to 8 human players can participate in this tournament by selecting their characters and then trying to pop their opponent's capsules by hitting the free-floating ball before the timer runs out. Each character has special abilities that can affect the ball in unexpected ways!</desc>
           <image>./heroesarena.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-8</players>
@@ -749,7 +761,7 @@
           <desc>The main aspect of the game is to supply enough sulphur to your HQ by building a transportation network consisting of sulphur sources, depots, roads and rail. At the start of the game, you should first connect your sulphur source to the HQ. Rail connections have higher capacity than roads, but need more time to construct. One unupgraded sulphur source supplies enough sulphur for one idle worker. Busy workers need twice as much.</desc>
           <image>./io.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>PkK (Philipp)</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -761,7 +773,7 @@
           <desc>It's Halloween Night and your girlfriend has been kidnapped by an evil wizard who wants to lum her into his undead bride! Armed with an unlimited supply of axes, you set out the rescue her, but you'll have to face hordes of skeletons, ghosts and green-skined monsters. You must kill them all in order to progress towards the wizard's castle. Can you save your love? This is one halloween night you'll never forget!</desc>
           <image>./jeeperscreepers.png</image>
           <rating>0</rating>
-          <releasedate>20070000T000000</releasedate>
+          <releasedate>20070101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -773,7 +785,7 @@
           <desc>It's a side-scrolling game, where you have to avoid the incoming rocks to stay alive, and gather diamonds to sustain life.</desc>
           <image>./jetp4k.png</image>
           <rating>0</rating>
-          <releasedate>20060000T000000</releasedate>
+          <releasedate>20060101T000000</releasedate>
           <developer>Harvey deKleine</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -785,7 +797,7 @@
           <desc>Experimentation of a plateform engine with small sprites. You should know how to jump in order to collect all the keys. Coded in a single day, only 1 level.</desc>
           <image>./jumpordie.png</image>
           <rating>0</rating>
-          <releasedate>20060000T000000</releasedate>
+          <releasedate>20060101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -797,7 +809,7 @@
           <desc>Our charming Mad Bomber really doesn't mean any harm. It's just that he loves nothing better than to drop his bombs and watch them explode! Only you can stop him! As he tosses his bombs, you race to douse their fuses with your buckets of water. The more bombs that splash in your buckets, the more points you score. But, the more points you score, the faster the bombs drop! Miss a bomb, and you'll learn how "Kaboom!" got its name. Here's a true test of stamina, reflexes and concentration - Activision's Kaboom! brought to your ColecoVision by N'APA'LM Software!</desc>
           <image>./kaboom.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -809,7 +821,7 @@
           <desc>Clone of Tetris game.</desc>
           <image>./kevtris.png</image>
           <rating>0</rating>
-          <releasedate>19960000T000000</releasedate>
+          <releasedate>19960101T000000</releasedate>
           <developer>Kevin Horton</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -821,7 +833,7 @@
           <desc>Kick Gas is a top-view smooth scrolling racing game, which game be controlled with regular controllers, as well as the steering wheel.</desc>
           <image>./kickgas.png</image>
           <rating>0</rating>
-          <releasedate>20080000T000000</releasedate>
+          <releasedate>20080101T000000</releasedate>
           <developer>Dvik, Joyrex</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -833,7 +845,7 @@
           <desc>A two player shooter game.</desc>
           <image>./killbarneyintokyo.png</image>
           <rating>0</rating>
-          <releasedate>19970000T000000</releasedate>
+          <releasedate>19970101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>2</players>
@@ -845,7 +857,7 @@
           <desc>Shooter game based on a cult toys :)</desc>
           <image>./killerinstinct.png</image>
           <rating>0</rating>
-          <releasedate>19970000T000000</releasedate>
+          <releasedate>19970101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -857,7 +869,7 @@
           <desc>Vick, the notorious English adventurer from Manchester, has gone to the Valley of the Pharaohs in search of the Mystery Jewels, which supposedly hold the secret of eternal life in the Kingdom of the Sun God. These jewels were locked away in secret pyramids guarded by cursed mummies. Use knives and pickaxes left behind by the ancient egyptian builders to collect the jewels and uncover passageways to the other pyramids. Will Vick fall victim to the dreaded curse of the mummy?</desc>
           <image>./kingsvalley.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -869,7 +881,7 @@
           <desc>Survive the six events to become the Knight you want to be! Khight Quest is the prototyped version for the final version of the game: "So you want to be a Knight ?"</desc>
           <image>./knightquest.png</image>
           <rating>0</rating>
-          <releasedate>20130000T000000</releasedate>
+          <releasedate>20130101T000000</releasedate>
           <developer>Nicolas Campion</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -881,7 +893,7 @@
           <desc>It's a small game where you have to survive as a fish by eating the food dropped from the surface.</desc>
           <image>./kobashi.png</image>
           <rating>0</rating>
-          <releasedate>20080000T000000</releasedate>
+          <releasedate>20080101T000000</releasedate>
           <developer>Dvik, Joyrex</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -893,7 +905,7 @@
           <desc>In this challenging and realistic 8-bit simulation of Ping-Pong, you will need fast reflexes and good timing. Create strategies to defeat the CPU or a friend.</desc>
           <image>./konamispingpong.png</image>
           <rating>0</rating>
-          <releasedate>20110000T000000</releasedate>
+          <releasedate>20110101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -905,7 +917,7 @@
           <desc>Relive all the excitement of Tetris on your ColecoVision console! Maneuver the falling tetromino pieces to form full lines of blocks which are then removed from the pit. The pieces keep coming endlessly, so you must avoid making mistakes that may cause a random stack of pieces to form. Such a stack will cause the end of the game if it reaches the top of the pit! As you reach each new "shock" level, the falling speed of the blocks is altered, adding to the game's difficulty. After mastering the single player mode, challenge a friend with the two-player versus game!</desc>
           <image>./kralizectetris.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -917,7 +929,7 @@
           <desc>A mysterious castle filled with riches is perched high atop a massive enchanted tree. Pint-sized hero Apache Kid vows to climb to the top, but the owls and cocoons living in the tree are just as determined to protect their home from intruders. Can Apache Kid outsmart the local wildlife and reach the castle in the sky? Find out in Magical Tree, the latest ColecoVision release by Opcode Games and Konami!</desc>
           <image>./magicaltree.png</image>
           <rating>0</rating>
-          <releasedate>20060000T000000</releasedate>
+          <releasedate>20060101T000000</releasedate>
           <developer>Opcode Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -929,7 +941,7 @@
           <desc>In the Mist maid you are in a boat near niagara falls. You must avoid at all costs the driftwood that comes against you from the waterfall. Sounds easy?</desc>
           <image>./maidofthemist.png</image>
           <rating>0</rating>
-          <releasedate>20070000T000000</releasedate>
+          <releasedate>20070101T000000</releasedate>
           <developer>Dale Wick</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -941,7 +953,7 @@
           <desc>Mario Bros. features two plumbers, Mario and Luigi, having to investigate the sewers of New York after strange creatures have been appearing down there. The objective of the game is to defeat all of the enemies in each phase. The mechanics of Mario Bros. involve only running and jumping. Unlike future Mario games, players cannot jump on enemies and squash them, unless they were already turned on their back. Each phase is a series of platforms with pipes at each corner of the screen, along with an object called a "POW" block in the center. Both sides of every phase feature a mechanism that allows the player to go off-screen to the left and appear on the right and vice versa.</desc>
           <image>./mariobrothers.png</image>
           <rating>0</rating>
-          <releasedate>20090000T000000</releasedate>
+          <releasedate>20090101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -953,7 +965,7 @@
           <desc>The objective is pretty simple: Get as fast as you can through each maze. But I never said it was easy! The difficulty increase with each maze. You can also bring a friend to play with! When you complete a mode, you are given a code to be classed among the best! Check mazemaniac.com for more.</desc>
           <image>./mazemaniac.png</image>
           <rating>0</rating>
-          <releasedate>20050000T000000</releasedate>
+          <releasedate>20050101T000000</releasedate>
           <developer>Charles-Mathieu Boyer</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -977,7 +989,7 @@
           <desc>The Earth is under attack! Prepare Mecha-8 for battle! A hero's job is never done, and today perfectly illustrates this rule: A hostile race of aliens of unknown origins have launched a vicious surprise attack on Earth's major cities! Tricia Thunder, the best mech pilot available, has been called away from her vacation to board the Mecha-8, a highly resilient war mech armed with powerful weapons. Tricia's mission is clear: She must first repel the alien onslaught to save as many civilian lives as possible, and then locate the command center of the alien menace and destroy it. But can Tricia do this single-handedly with Mecha-8? She's fully confident that she can, and you're going to help her prove it!</desc>
           <image>./mecha8.png</image>
           <rating>0</rating>
-          <releasedate>20130000T000000</releasedate>
+          <releasedate>20130101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -989,7 +1001,7 @@
           <desc>Rise up to the challenge of your king! The king of your kingdom is looking for a new knight to sire, and you're next in line for the post! However, the king will only give your candidacy serious consideration if you manage to bring back the coveted royal sword from the depths of his deadly dungeon!</desc>
           <image>./moduleman.png</image>
           <rating>0</rating>
-          <releasedate>20130000T000000</releasedate>
+          <releasedate>20130101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1001,7 +1013,7 @@
           <desc>Mopiranger, the hero defender of Mopiland! As the Mopiranger, ride your trusty canoe through the Razzon's water castles, and free the Moplits! Use your Stone Beamer to turn the Razzons to stone, but be careful not to block yourself into a corner of the maze! Go, Mopiranger, Go!</desc>
           <image>./mopiranger.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1013,7 +1025,7 @@
           <desc>Clad in Chinese clothes and wearing a Chaplin moustache, our hero, Mr. Chin, China's Proud Plate-spinner hustles onto the stage !. Five or six plate are kids stuff. How many plates can you make him spin even with interference from rascals, and naughty plates wich to fall... You will receive a standing ovation if you turn all the plates. A thrilling yet comical game sure to attract your heart !. Mr Chin is the very first official CollectorVision release. Although, the first non-official release is Winky Trap wich was available complete in box in 2007. CollectorVision was founded in May 2008</desc>
           <image>./mrchin.png</image>
           <rating>0</rating>
-          <releasedate>20080000T000000</releasedate>
+          <releasedate>20080101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1025,7 +1037,7 @@
           <desc>It's harvest time! Mr. Do! is gathering his apples and cherries before the mean badguys, diggers, blue chompers, and alphamonsters get them first. And if they don't collect the harvest, they may knock off our clown friend first!</desc>
           <image>./mrdoswildride.png</image>
           <rating>0</rating>
-          <releasedate>20040000T000000</releasedate>
+          <releasedate>20040101T000000</releasedate>
           <developer>Steve Begin</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1037,7 +1049,7 @@
           <desc>During each round, you must destroy all alien ships and everytime you successfully complete this task, there is an intermission where the one-eyed alien creature will taunt you and vow to strike back.</desc>
           <image>./msspacefury.png</image>
           <rating>0</rating>
-          <releasedate>20010000T000000</releasedate>
+          <releasedate>20010101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1049,7 +1061,7 @@
           <desc>In this game you are starting with 16 shells. You are playing against the computer, You can take maximum 3 shells. Latest taking the shell is the looser.</desc>
           <image>./nim.png</image>
           <rating>0</rating>
-          <releasedate>20000000T000000</releasedate>
+          <releasedate>20000101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1061,7 +1073,7 @@
           <desc>She's not just a princess! She's a ninja! Armed with knives and throwing stars, she must fight her way to the provincial palace, facing hordes of cunning ninjas along the way! Can she restore peace and order to her land?</desc>
           <image>./ninjaprincess.png</image>
           <rating>0</rating>
-          <releasedate>20110000T000000</releasedate>
+          <releasedate>20110101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1073,7 +1085,7 @@
           <desc>Unlike other car battle derbies that focus mainly on demolition, this race is all about outwitting your opponents, as you must drive your car in a closed road maze and collect fuel pellets to earn points!</desc>
           <image>./pacar.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Steve Begin</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1085,7 +1097,7 @@
           <desc>Pac-Man Collection features two of the most popular video games in American arcade history, the original Pac-Man and the addictive and charming Ms Pac-Man. Who can forget the countless hours and quarters spent evading the pesky ghosts while chompin' on the dots and gobbling up the fruit for bonus points! Relive these arcade classics on your own ColecoVision! A perfect arcade port of both classic games, Pac-Man and Ms Pac-Man.</desc>
           <image>./pacmancollection.png</image>
           <rating>0</rating>
-          <releasedate>20080000T000000</releasedate>
+          <releasedate>20080101T000000</releasedate>
           <developer>Opcode Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1097,7 +1109,7 @@
           <desc>Come play with Elmo in his play room! Introducing the latest offering from the wizards at Dvik and Joyrex, a game designed specifically for toddlers and pre-schoolers (ages 1 to 6)! Elmo of Sesame Street is hiding in his play room, and he wants to play a game of peek-a-boo with you!</desc>
           <image>./peekaboo.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1109,7 +1121,7 @@
           <desc>Pitfall Harry's quest for treasure never ends! Pitfall Harry has undertaken his most dangerous and challenging adventure yet! Deep inside a jungle infested with wild animals, and even deeper into the underground caves below, guide Harry as he locates money bags and assorted treasure, with the ultimate goal of finding a priceless crystal orb!</desc>
           <image>./pitfall2.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1121,7 +1133,7 @@
           <desc>Pong is one of the first computer games that ever created, this simple "tennis like" game features two paddles and a ball, the goal is to defeat your opponent by being the first one to gain 10 point, a player gets a point once the opponent misses a ball. The game can be played with two human players, or one player against a computer controlled paddle.</desc>
           <image>./pong.png</image>
           <rating>0</rating>
-          <releasedate>20070000T000000</releasedate>
+          <releasedate>20070101T000000</releasedate>
           <developer>Alfonso DC</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1133,7 +1145,7 @@
           <desc>Rescue Pooyan From Fierce Wolves ! One day in a forest, a group of Wolves attacked the pig's house where Mother Pig (Mama) and her little Piggies (Pooyans) were living peacefully. Mama fought against Wolves to protect Pooyans using arrows and meat. For all her efforts, however, some Pooyans were kidnapped. Hating the Wolves, Mama bravely goes to the Wolves' Lair to rescue Pooyans. Is she able to beat wolves and take Pooyans back home ?</desc>
           <image>./pooyan.png</image>
           <rating>0</rating>
-          <releasedate>20090000T000000</releasedate>
+          <releasedate>20090101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1157,7 +1169,7 @@
           <desc>Your princess has been captured by an evil king! The legends says that a beautiful princess was born to give happiness to a true knight. An evil king with magical powers kidnapped the princess, taking her far away to a demonic kingdom. She was made prisoner in a castle. To reach it, a knight must travel without fear through the darkness. Only a brave knight will be able to defeat the vicious monsters guarding the princess.</desc>
           <image>./princessquest.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1169,7 +1181,7 @@
           <desc>The object of the game is to shoot as many Purple Dinos as possible before running out of ammo. Shoot the POW for extra ammo. The skill level increases every 10 dinos that you hit.</desc>
           <image>./purpledinosaurmassacre.png</image>
           <rating>0</rating>
-          <releasedate>19960000T000000</releasedate>
+          <releasedate>19960101T000000</releasedate>
           <developer>John Dondzilla</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>2</players>
@@ -1181,7 +1193,7 @@
           <desc>You guide a policeman round in order to give fines to cars and avoid others cars which try to run over him.</desc>
           <image>./pv2000.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Nicolas Campion</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1193,7 +1205,7 @@
           <desc>The game cartridge contains 2 games. In Pyramid Warp you are challenged to collect the valuable treasures in the pyramids of ancient Egypt. But offcoarse these pyramids are filled with monsters who are trying to stop you. Are you forced into a corner, try one of the pyramid secret escape routes, and you will appear in a second. Each pyramid contains 16 rooms. Maneuver the space Battleship Clapton II to avoid space mines, and at the same time, destroy enemy fighters with your beam gun. Your Score will rise, but the speed of fighters will increase.</desc>
           <image>./pyramidwarpandbattleshipclapton2.png</image>
           <rating>0</rating>
-          <releasedate>20090000T000000</releasedate>
+          <releasedate>20090101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1205,7 +1217,7 @@
           <desc>Quatre is a Tetris style game for ColecoVision by Nicolas "Nicam Shilova" Campion for one player.</desc>
           <image>./quatre.png</image>
           <rating>0</rating>
-          <releasedate>20130000T000000</releasedate>
+          <releasedate>20130101T000000</releasedate>
           <developer>Nicolas Campion</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1217,7 +1229,7 @@
           <desc>The townspeople - including the royal guards - have all fled the kingdom, leaving the Prince alone to fend for himself, and even worse, Mardok has stolen the Golden Chalice, the greatest treasure of Larosia! It now falls to the Prince to restore the people's confidence in his royalty, and there's only one way to do it: He must return the Golden Chalice to the Yellow Castle!</desc>
           <image>./questforthegoldenchalice.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1229,7 +1241,7 @@
           <desc>Question and answer game to test the limits of your knowledge.</desc>
           <image>./quizwiz.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>CollectorVision</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1241,7 +1253,7 @@
           <desc>Challenge a friend or the computer in this friendly tile-matching game. Players take turns flipping tiles, revealing flags from countries all over the world. Uncover two flags of the same country to score points. You can also score extra points via the tic-tac-toe system applied to flipped tiles, or by flipping special tiles that affect the game in various ways. For a different kind of challenge, you can also play in "solitaire" mode, which lets you try to uncover all the matching flags without going over a given limit of consecutive mismatches.</desc>
           <image>./remembertheflag.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Remember The Flag</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -1253,7 +1265,7 @@
           <desc>Reversi is based on the classic board game where your objective is to capture the most pieces on the game board by flipping discs to your color.</desc>
           <image>./reversi.png</image>
           <rating>0</rating>
-          <releasedate>20030000T000000</releasedate>
+          <releasedate>20030101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1265,7 +1277,7 @@
           <desc>Reversi - Based on the classic board game where your objective is to capture the most pieces on the game board by flipping discs to your color; Diamond Dash - Dig through five mountains with a limited supply of dynamite, collecting all the diamonds as fast as you can! Do you have the skill to make it through all five mountains? </desc>
           <image>./reversianddiamonddash.png</image>
           <rating>0</rating>
-          <releasedate>20040000T000000</releasedate>
+          <releasedate>20040101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1277,7 +1289,7 @@
           <desc>Open the throttle all the way on your CUSTOM ROAD FIGHTER! Pedal to the metal, challenge world-class rival drivers to the finish line in a whirlwind road race full of action and excitement!</desc>
           <image>./roadfighter.png</image>
           <rating>0</rating>
-          <releasedate>20070000T000000</releasedate>
+          <releasedate>20070101T000000</releasedate>
           <developer>Opcode Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1289,7 +1301,7 @@
           <desc>Change the color of the robot, scatter flying objects as you approach them, or changing the text displayed at the bottom of the screen.</desc>
           <image>./robobug.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Nicolas Campion</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1313,7 +1325,7 @@
           <desc>9 days before Christmas. Santa deliver gift from his factory to the warehouse. But the evil Grinch have done a bad trick. All the gifts are lost in North Pole. Now, you're mission is to get back all gift before Christmas Night! Or eventually make an high score :) :)</desc>
           <image>./santamustsavechristmas.png</image>
           <rating>0</rating>
-          <releasedate>20110000T000000</releasedate>
+          <releasedate>20110101T000000</releasedate>
           <developer>Michel Louvet</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1325,7 +1337,7 @@
           <desc>Deliver gifts to all 6 billion boys and girls!</desc>
           <image>./santasgiftrun.png</image>
           <rating>0</rating>
-          <releasedate>20040000T000000</releasedate>
+          <releasedate>20040101T000000</releasedate>
           <developer>Dale Wick</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1337,7 +1349,7 @@
           <desc>There are four snakes, controlled using the Colecovision controllers (two humans can play simultanously) or artifical intelligence which try to avoid running into walls and eating stuff that keeps turning up on the field.</desc>
           <image>./schlangecv.png</image>
           <rating>0</rating>
-          <releasedate>20060000T000000</releasedate>
+          <releasedate>20060101T000000</releasedate>
           <developer>Philip Klaus Krause</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -1349,7 +1361,7 @@
           <desc>In this game you are a prince trying to recover the stolen crown jewels needed for his coronation.</desc>
           <image>./searchforthestolencrownjewels.png</image>
           <rating>0</rating>
-          <releasedate>20060000T000000</releasedate>
+          <releasedate>20060101T000000</releasedate>
           <developer>Philip Klaus Krause</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1361,7 +1373,7 @@
           <desc>This game is the sequel to "Search for the Stolen Crown Jewels". A neighbouring country invaded your kingdom during the events of the first game. Now you have to fight them in the air and on the ground, in an airplane, with airship and anti-air guns, gun towers and as a special agent infiltrating and sabotaging their installations.</desc>
           <image>./searchforthestolencrownjewels2.png</image>
           <rating>0</rating>
-          <releasedate>20070000T000000</releasedate>
+          <releasedate>20070101T000000</releasedate>
           <developer>Philip Klaus Krause</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1373,7 +1385,7 @@
           <desc>This game is the last part of the SCJ trilogy.</desc>
           <image>./searchforthestolencrownjewels3.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Philip Klaus Krause</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1385,7 +1397,7 @@
           <desc>Once again, alien forces threaten the Earth. Now it's time for you to repel the attack and save the planet, by launching a surprise attack of your own into the alien trenches where the boss ships are stationned while they get ready for the final invasion. You control a pair of space fighters that work in tandem. Collect enough fusion capsules left behind by defeated drones and your two ships will merge into a super-fighter! Can you destroy the bulk of the enemy forces before they launch their attack?</desc>
           <image>./shmup.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1397,7 +1409,7 @@
           <desc>As the pilot of the lone space freighter Asa Dashi, you were taken prisoner by the Funya Chin empire and arbitrarily sentenced to face the challenge of the Shouganai, a deadly game where you must pilot of caterpillar-like vehicle around an arena and grab diamonds. Avoid the patrolling alien drones at all cost, and also avoid land mines as you maneuver your vehicle along the walls of the arena and extend its "tail" to grab the diamonds. Grab all the diamonds in an arena and you then move on to the next (more challenging) arena. Upgrade your vehicle by grabbing special icons, but be careful, as some icons cause negative effects! If you survive all 24 arenas of the Shouganai, the Funya Chin empire may give you back your freedom... Maybe...</desc>
           <image>./shouganai.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1409,7 +1421,7 @@
           <desc>This is a simple shunting puzzle for the ColecoVision. It has two levels corresponding to the classic Inglenook and Timesaver shunting puzzles. Move the joystick forward / backward to move the engine.</desc>
           <image>./shuntingpuzzle.png</image>
           <rating>0</rating>
-          <releasedate>20070000T000000</releasedate>
+          <releasedate>20070101T000000</releasedate>
           <developer>Philip Klause Krause</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1421,7 +1433,7 @@
           <desc>Challenging, fast-paced shooter unlike anything you've seen on the ColecoVision game system! When a weakened and vulnerable Earth is invaded by the vicious Zephyr army, the planet's only hope is a fleet of powerful ships, the Sky Jaguars.</desc>
           <image>./skyjaguar.png</image>
           <rating>0</rating>
-          <releasedate>20040000T000000</releasedate>
+          <releasedate>20040101T000000</releasedate>
           <developer>Opcode Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1433,7 +1445,7 @@
           <desc>You control your snake as it slither's around the screen. Where this game differs greatly from Centipede is that you can shoot in 4 different directions at the same time to take out the baddies trying to hunt you down. The bad snakes hunting you down will appear from various angles on the screen, often several at a time.</desc>
           <image>./slither.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1445,7 +1457,7 @@
           <desc>Breakout type of game.. In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed.</desc>
           <image>./smash.png</image>
           <rating>0</rating>
-          <releasedate>20040000T000000</releasedate>
+          <releasedate>20040101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1457,7 +1469,7 @@
           <desc>Players control a spaceship commander who has landed on a planet and must defend the ship against its hostile creatures.</desc>
           <image>./spacecaverns.png</image>
           <rating>0</rating>
-          <releasedate>20040000T000000</releasedate>
+          <releasedate>20040101T000000</releasedate>
           <developer>Scott Huggins</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1469,7 +1481,7 @@
           <desc>Space Harrier is a fast-paced rail shooter game played in a third-person perspective behind the protagonist, set in a surreal world composed of brightly colored landscapes adorned with checkerboard-style grounds and stationary objects such as trees or stone pillars.</desc>
           <image>./spaceharrier.png</image>
           <rating>0</rating>
-          <releasedate>20090000T000000</releasedate>
+          <releasedate>20090101T000000</releasedate>
           <developer>HardHat</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1481,7 +1493,7 @@
           <desc>Aliens are trying to invade earth. You are the only one brave enough to fight them. Get in your space ship and shoot them into another dimension!! But be careful, they will do anything to crash your ship and wipe you out of the galaxy.</desc>
           <image>./spacehunter.png</image>
           <rating>0</rating>
-          <releasedate>20050000T000000</releasedate>
+          <releasedate>20050101T000000</releasedate>
           <developer>Guy Foster</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1493,7 +1505,7 @@
           <desc>The original space alien vertical shooter. Move your tank back and forth along the bottom of the screen and shoot endless waves of aliens marching towards earth. Shoot the flying saucer for extra points.</desc>
           <image>./spaceinvaders.png</image>
           <rating>0</rating>
-          <releasedate>20020000T000000</releasedate>
+          <releasedate>20020101T000000</releasedate>
           <developer>Eduardo Mello</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -1505,7 +1517,7 @@
           <desc>After many frustrating years, scientists have finally made contact with biengs from another planet. That's the good news. The bad news is that these aliens are bent on conquering the galaxy one planet at a time. The enemy won't quit until they've won, and they'll destroy everything that stands in their way... And that's also including you !</desc>
           <image>./spaceinvaderscollection.png</image>
           <rating>0</rating>
-          <releasedate>20030000T000000</releasedate>
+          <releasedate>20030101T000000</releasedate>
           <developer>Opcode Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -1517,7 +1529,7 @@
           <desc>Space Invasion was based on the greatest shooter of all time, and is a fine Coleco port, which includes both the original as well as deluxe version.</desc>
           <image>./spaceinvasion.png</image>
           <rating>0</rating>
-          <releasedate>19980000T000000</releasedate>
+          <releasedate>19980101T000000</releasedate>
           <developer>John Dondzilla</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1529,7 +1541,7 @@
           <desc>A real space action game for two players. Space Trainer reminds a Space War, but there's no need to shoot. Direct the ship to a moving bubble and wins who is faster.</desc>
           <image>./spacetrainer.png</image>
           <rating>0</rating>
-          <releasedate>20050000T000000</releasedate>
+          <releasedate>20050101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>2</players>
@@ -1541,7 +1553,7 @@
           <desc>Game similar to Flappy Bird. The game loops when you defeat the Firebird. The game ends when you get 1 million points or run out of HP.</desc>
           <image>./sparrowflap.png</image>
           <rating>0</rating>
-          <releasedate>20160000T000000</releasedate>
+          <releasedate>20160101T000000</releasedate>
           <developer>Kiwi</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1553,7 +1565,7 @@
           <desc>In the city of the Spectanks, the heroic Wummel continues the crusade against evil and injustice. Scream around hairpin turns while avoiding enemy cruisers! Blast your way through to grab the energy stars and clear that city sector!</desc>
           <image>./spectank.png</image>
           <rating>0</rating>
-          <releasedate>20000000T000000</releasedate>
+          <releasedate>20000101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1565,7 +1577,7 @@
           <desc>In the universe, there exists a car with really cool tail fins of awesome power. This car wants to party, and you've been chosen to come along for the ride. Slide into the leather bucket seats of adventure, with Spunky's super car! You have to drive the super car through time and space.</desc>
           <image>./spunkyssupercar.png</image>
           <rating>0</rating>
-          <releasedate>20140000T000000</releasedate>
+          <releasedate>20140101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1577,7 +1589,7 @@
           <desc>Squares! is a fast-paced game where you need to avoid the other squares, anticipating their movement, to last as long as possible and obtain a high score. Throughout the game, the enemy squares will continuously bounce around the outer solid playfield. Your white square is bounded by the inner dashed playfield. Use the controller to guide your square away from enemy squares. Your score increases as long as your square is in play. The gameplay will become more difficult as your score increases.</desc>
           <image>./squares.png</image>
           <rating>0</rating>
-          <releasedate>20070000T000000</releasedate>
+          <releasedate>20070101T000000</releasedate>
           <developer>Harvey deKleine</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1589,7 +1601,7 @@
           <desc>In the year 2010 of the Dimensional Almanac, a mysterious rogue planet appeared in the darkness of the cosmos. It was named Gordess, and its war-driven inhabitants plundered the resources of every planet they encountered, and left nothing but death in their wake. As the pilot of Final Star, can you put a stop to it?</desc>
           <image>./starforce.png</image>
           <rating>0</rating>
-          <releasedate>20010000T000000</releasedate>
+          <releasedate>20010101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1601,7 +1613,7 @@
           <desc>This game is based on the early 80's style space shooter game Star Castle. You or a second player will attempt to penetrate the shields of a heavily armored space ship. You can manuever your ship around the fortress and shoot at the 3 revolving energy shields. As you weaken pieces of the shields, these pieces will break off. You can attempt to out manuever the energy balls or shoot them down.</desc>
           <image>./starfortress.png</image>
           <rating>0</rating>
-          <releasedate>19970000T000000</releasedate>
+          <releasedate>19970101T000000</releasedate>
           <developer>John Dondzilla</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1613,7 +1625,7 @@
           <desc>The objective is to jump as high as possible and avoid traps.</desc>
           <image>./starjump.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Nicolas Campion</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1625,7 +1637,7 @@
           <desc>Star Ocean is an RPG game where you explore the world and encounter monsters.</desc>
           <image>./starocean.png</image>
           <rating>0</rating>
-          <releasedate>20150000T000000</releasedate>
+          <releasedate>20150101T000000</releasedate>
           <developer>Chris Derrig</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1637,7 +1649,7 @@
           <desc>Welcome to the strange land of Steamroller! Play against the computer or against another player head-to-head. Either way, you must use your Steamroller to repair the ever-deteriorating convoluted roadway: Potholes grow into Manholes, and if one of those smiling Beachballs falls into a Manhole, it bounces out a killer Beachbomb!</desc>
           <image>./steamroller.png</image>
           <rating>0</rating>
-          <releasedate>20010000T000000</releasedate>
+          <releasedate>20010101T000000</releasedate>
           <developer>Retrotopia</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1-2</players>
@@ -1649,7 +1661,7 @@
           <desc>I'm Flash, the fastest Spanish cat in the city. I've spent the day wandering around with my friends, looking for some food and having fun... but I've suddenly remembered I have a date with Iris, the cutest kitty of the downtown area!! I'm already late and I have a long way to go, so I decided to race across the city rooftops to get to Iris' penthouse faster... But the rooftops are definately not safe, with obstacles around every corner! Iris is certainly worth the risk! I'll show you why they call me Flash!!</desc>
           <image>./straycat.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1661,7 +1673,7 @@
           <desc>Fight for supremacy of the high seas! As the pilot of the Subroc sea-to-air attack vehicle, you were hailed as a national hero after single-handidly repelling the enemy army which was trying to gain control of the commercial sea shipping lines. But this victory only served to strengthen the enemy's resolve, and now they are back with a vengeance! Luckily, you are now in command of the SubRoc Mark-II, which is fully submersible, making it a force to be reckoned with on the high seas. Destroy enemy saucers, robotic boats and incoming missiles on the surface, then dive underwater to face enemy submarines and mines. Your government is counting on you!</desc>
           <image>./subrocsupergame.png</image>
           <rating>0</rating>
-          <releasedate>20140000T000000</releasedate>
+          <releasedate>20140101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1673,7 +1685,7 @@
           <desc>To solve a Sudoku puzzle, place a number into each cell so that each row, each column, and each small 3x3 box within the larger puzzle will contain every number from 1 to 9. The game features three levels of difficulty: Novice, Adept, and Master.</desc>
           <image>./sudoku.png</image>
           <rating>0</rating>
-          <releasedate>20080000T000000</releasedate>
+          <releasedate>20080101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1685,7 +1697,7 @@
           <desc>The world's most popular sport finally comes to America! Super Action Soccer gives you the chance to be the most accomplished star player of any team that ever was. You will be involved all the time in the most exciting moments of the game. You will score the winning goal!</desc>
           <image>./superactionsoccer.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1697,7 +1709,7 @@
           <desc>Super Space Acer is a top down shooter where the mission is to simply destroy everything you face. There are a total of five stages, and three weapons, each increasing in power.</desc>
           <image>./superspaceacer.png</image>
           <rating>0</rating>
-          <releasedate>20090000T000000</releasedate>
+          <releasedate>20090101T000000</releasedate>
           <developer>Mike Brent</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1709,7 +1721,7 @@
           <desc>Game play is pretty simple. The on screen instructions will get most of the point across. You basically just blast away, protecting your cannons and the Green Towers (4 of them). Each cannon has limited ammo. The red bar below each cannon shows how much ammo is left. The game speed and the enemy AI get smarter as you progress through each level.</desc>
           <image>./terraattack.png</image>
           <rating>0</rating>
-          <releasedate>20070000T000000</releasedate>
+          <releasedate>20070101T000000</releasedate>
           <developer>Scott Huggins</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1721,7 +1733,7 @@
           <desc>Unlike most text adventure games, 2010 is not controlled by typing in verb-noun commands. Moving around is done by the directional key, and by pressing return the examine menu appears. By successfully performing various activities the player earns points. The current score is shown every time the player ends camping.</desc>
           <image>./textadventure.png</image>
           <rating>0</rating>
-          <releasedate>20150000T000000</releasedate>
+          <releasedate>20150101T000000</releasedate>
           <developer>Chris Derrig</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1733,7 +1745,7 @@
           <desc>The private war of a lone space soldier is about to begin! No one on Earth knows from what sector of our galaxy the deadly alien drone armies came from. Only one thing is certain: They are bent on our destruction. As the pilot of an advanced Hyper Dual Armor mech, you were part of a squadron on a mission to penetrate the enemy's central computer base and destroy it. The base was heavily fortified, and your squadron was decimated, except for you. You are now trapped, alone, inside the computer complex and must traverse 10 levels against merciless automated defense systems, in an almost hopeless effort to complete your mission. While the battle rages on outside, in the deadly vacuum of space, you are about to begin your own private battle, the outcome of which may very well turn the tide of this interplanetary war!</desc>
           <image>./thexder.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1745,7 +1757,7 @@
           <desc>Tic-tac-toe (also known as noughts and crosses or Xs and Os) is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.</desc>
           <image>./tictactoe.png</image>
           <rating>0</rating>
-          <releasedate>19960000T000000</releasedate>
+          <releasedate>19960101T000000</releasedate>
           <developer>Norman Nithman</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1757,7 +1769,7 @@
           <desc>Challenge the olympic world records! Athletes from all over the world converge in a single location to proove their worth, in the greatest sports competition of all time: The olympic games!</desc>
           <image>./trackandfield.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1769,7 +1781,7 @@
           <desc>You're Sandy Olson, a young and beautiful traffic policewoman in charge of helping hundreds of drivers face the unavoidable traffic jam caused by summer roadworks. One of those drivers is Danny Zucku, an executive who works for a very important company. He has been your friend for some time, but now you feel you want to be something more than only his friend. So you make an extra effort to help him get to his job on time, by moving the cars and trucks around the area to clear a path for Danny's sportscar. As the days pass, the traffic jams get worse, and helping Danny becomes quite a challenging puzzle for you. If Danny cannot escape the morning traffic, he may get fired!</desc>
           <image>./trafficjam.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1781,7 +1793,7 @@
           <desc>Turbo requires the player to navigate a road race through different urban and rural locations, through differing weather conditions, and during changing times of day. The cars in the game resemble Formula 1 race cars. In order to proceed, the player must pass and stay ahead of at least 30 competing cars before time expires. Some opponents drive predictably, while others swerve across the road suddenly.</desc>
           <image>./turbo.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1790,10 +1802,10 @@
         <game>
           <path>./txupinazo.rom</path>
           <name>Txupinazo!</name>
-          <desc>You are a young Texan cowboy called Patsie, living a peaceful life at your parent's ranch. One day, you see the San Fermín festival on TV. After watching the 'encierro' (the famous Navarre running of the bulls) you immediately feel you must go to Spain and live that experience on your own. So, after working long hours and saving some money, you manage to buy an airplane ticket to Spain. Everything is ready to start your journey, following Hemingway's steps: Participate in eight consecutive bull runs without getting harmed. The 'fiesta' awaits you!!</desc>
+          <desc>You are a young Texan cowboy called Patsie, living a peaceful life at your parent's ranch. One day, you see the San Ferm?n festival on TV. After watching the 'encierro' (the famous Navarre running of the bulls) you immediately feel you must go to Spain and live that experience on your own. So, after working long hours and saving some money, you manage to buy an airplane ticket to Spain. Everything is ready to start your journey, following Hemingway's steps: Participate in eight consecutive bull runs without getting harmed. The 'fiesta' awaits you!!</desc>
           <image>./txupinazo.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1805,7 +1817,7 @@
           <desc>This is a one level guessing type of the game with letters. You have 5 lives, if you do a mistake you have one less. Guess who is your Valentine!</desc>
           <image>./valentinegame.png</image>
           <rating>0</rating>
-          <releasedate>20020000T000000</releasedate>
+          <releasedate>20020101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1817,7 +1829,7 @@
           <desc>The goal of Venture is to collect treasure from a dungeon. Winky is equipped with a bow and arrow and explores a dungeon with rooms and hallways. The hallways are patrolled by large, tentacled monsters named Hallmonsters, which cannot be killed, injured, or stopped in any way. Once in a room, Winky may kill monsters, avoid traps and gather treasures.</desc>
           <image>./venture.png</image>
           <rating>0</rating>
-          <releasedate>20000000T000000</releasedate>
+          <releasedate>20000101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1829,7 +1841,7 @@
           <desc>In Victory, use your Coleco Roller Controller to rotate your ship as the space around you scrolls by, smack your fire button to take out anything that moves and snag a power-up or two along the way to aid in your quest. Similar in style to Asteroids, but with a moving background.</desc>
           <image>./victory.png</image>
           <rating>0</rating>
-          <releasedate>20100000T000000</releasedate>
+          <releasedate>20100101T000000</releasedate>
           <developer>Daniel Bienvenu</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1841,7 +1853,7 @@
           <desc>Command your Tank in a death battle until all your enemies tanks are destroyed. Destroy buildings, rocks, trees and barbed wire to flush out the enemy tanks from their cover and destroy them. Next take to the skies and battle the enemy plane to plane in a show down for air superiority. But watch out for birds as they will cause your plane to crash. 2 Player action for your Colecovision or Adam home computer.</desc>
           <image>./war.png</image>
           <rating>0</rating>
-          <releasedate>20140000T000000</releasedate>
+          <releasedate>20140101T000000</releasedate>
           <developer>Gerry Brophy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>2</players>
@@ -1853,7 +1865,7 @@
           <desc>Based on recepie the goal is to collect combination of vegetables, and put them in your basket. Once all ingredients are captured by one player, the level is scored.</desc>
           <image>./warmfuzzyquestforsalad.png</image>
           <rating>0</rating>
-          <releasedate>20050000T000000</releasedate>
+          <releasedate>20050101T000000</releasedate>
           <developer>Dale Wick</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>0-2</players>
@@ -1865,7 +1877,7 @@
           <desc>Dodger and Sharky rush to save Angel and Eloise from the Evil Sea Monster! This is a two-player simultaneous shooter (requires Joysticks) with various phases but just one very long and unforgiving level, and an intense boss battle.</desc>
           <image>./watervillerescue.png</image>
           <rating>0</rating>
-          <releasedate>20090000T000000</releasedate>
+          <releasedate>20090101T000000</releasedate>
           <developer>Mike Brent</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1877,7 +1889,7 @@
           <desc>Help law and order prevail on the electronic frontier! Outlaws are out to ambush the train. You're the Sheriff who can stop them with your faithful horse. You can't shoot over the train, but you can fail back and get the bandints from behind.</desc>
           <image>./wildwestern.png</image>
           <rating>0</rating>
-          <releasedate>20000000T000000</releasedate>
+          <releasedate>20000101T000000</releasedate>
           <developer>Opcode Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1889,7 +1901,7 @@
           <desc>The game design is similar to Pac-Man, replacing Pac-Man with a mouse, the dots with cheese, the ghosts with cats, and the power pills with bones. The unique element of Mouse Trap is that color-coded doors in the maze can be toggled by pressing a button of the same color.</desc>
           <image>./winkytrap.png</image>
           <rating>0</rating>
-          <releasedate>19970000T000000</releasedate>
+          <releasedate>19970101T000000</releasedate>
           <developer>Jean-Francois Dupuis</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1901,7 +1913,7 @@
           <desc>Oh no! Tom-Tom's girlfriend Tanya has been adbucted by Drancon, the evil lizard king! Now it's up to Tom-Tom to rescue her! Through forests and caves, Tom-Tom must run, jump and toss his trusty stone hammer at dangerous animals that stand in his way, then face a boss monster at the end of each stage. Help him catch the fruits and eggs that appear before him to restore his health, and also keep an eye out for special treasures that will give you bonus points!</desc>
           <image>./wonderboy.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1913,7 +1925,7 @@
           <desc>Clone of Breakout game. In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen.</desc>
           <image>./yankbash.png</image>
           <rating>0</rating>
-          <releasedate>20040000T000000</releasedate>
+          <releasedate>20040101T000000</releasedate>
           <developer>Rich Drushel</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1925,7 +1937,7 @@
           <desc>In this spin-off of the exciting and innovative arcade game, you'll battle your way to the top of a mysterious palace filled with the world's most dangerous warriors. Can you withstand the might of the Chop Suey Triad Gang and save China from the diabolical Willy Wu? Whatever happens, you'll agree that your ColecoVision has never seen a fight this furious!</desc>
           <image>./yiearkungfu.png</image>
           <rating>0</rating>
-          <releasedate>20050000T000000</releasedate>
+          <releasedate>20050101T000000</releasedate>
           <developer>Opcode Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1937,7 +1949,7 @@
           <desc>Challenge the evil Zaxxon in the harsh battleground of space! Alone in your space fighter, you are approaching the asteroid bases of the mighty robotic conquerer, Zaxxon! Maneuvering around gun turrets, missiles, forcefields and various airborn robotic ships, you will soon reach Zaxxon himself. But wait! Your encounter with Zaxxon is just the beginning of your mission, which will take you through additional enemy asteroids, such as the Space Port and the Alien City, towards your true final target: The Zaxxon High Command! Get ready for the ultimate challenge, in this faithful cartridge conversion of the Coleco ADAM disk game!</desc>
           <image>./zaxxonsupergame.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Team Pixelboy</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1949,7 +1961,7 @@
           <desc>You Drive down to L.A. freeway, through the Vegas desert, over the Texas roadways, in and out of the Midwest backwoods. And around the treacherous curves of the industrial megalopolis of the East Cost Obstracles. That include cars, trees, puddles, rivers, bends in the road, rocks, trucks that drop barrels and even cactus.</desc>
           <image>./zippyrace.png</image>
           <rating>0</rating>
-          <releasedate>20090000T000000</releasedate>
+          <releasedate>20090101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
@@ -1958,10 +1970,10 @@
         <game>
           <path>./zombienear.rom</path>
           <name>Zombie Near</name>
-          <desc>You are a Code Delta Agent from the Special Delta Team. Delta Team’s operator has just received a message from the Government labs. Something weird has happened. Something about zombies. But before the operator could receive more information, the message suddenly stopped. Delta Agents are given the mission to discover what’s going on. Will you survive?</desc>
+          <desc>You are a Code Delta Agent from the Special Delta Team. Delta Team?s operator has just received a message from the Government labs. Something weird has happened. Something about zombies. But before the operator could receive more information, the message suddenly stopped. Delta Agents are given the mission to discover what?s going on. Will you survive?</desc>
           <image>./zombienear.png</image>
           <rating>0</rating>
-          <releasedate>20120000T000000</releasedate>
+          <releasedate>20120101T000000</releasedate>
           <developer>Collectorvision Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
