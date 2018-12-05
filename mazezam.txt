@@ -1,85 +1,0 @@
-MazezaM (200X Ventzislav Tzvetkov)
-
-MazezaM is a puzzle game, where the player have to pass through the levels by sliding the walls to left and right, opening corridors between. 
-The rules seem simple, but the game is not as easy as it looks at first sight, especially on the later levels, where the walls are much wider, 
-the corridors smaller and the rooms are generally bigger and harder, meaning much more attention and logic have to be put to solve the puzzle. 
-Sometimes the reach to the end seem unsolvable, but there is always a solution at the beginning. If a level is rendered by the player unsolvable, 
-there is a possibility for a replay in the room from the initial position, but this is at the cost of a life. 
-After all the lives are used, the game is over and have to be started again from the first level. If the level room is passed, the player is rewarded with extra life, 
-which comes handy in the next levels. The puzzle game for the ColecoVision was released shortly after 
-I did my first successful ports for the console with the Hitech C compiler. I used the C basis from the AntiISDA Warrior port to the 
-ColecoVision and the CP/M version of the game. I used the C language again, because programs in high level languages are much easier to debug or added new 
-features to them. The game is not resource demanding and works fine. 
-Later versions were compiled with the newer, faster and open source SDCC compiler, polished and added two extra levels. 
-The graphics are done with the use of game's own character set, RLE compressed in the ROM, which are decompressed after the initial startup of the game. 
-The use of compression techniques on the console saves precious space, where it is very limited by the use of ROM chips. 
-This at the expense of only a small little delay at the beginning of the game. Because of the limited memory of the consoles, the decompression most of the time 
-have to be done every time before each level, but with this game, because the character set is the same during all the levels, this is not needed, 
-meaning that there is no delay between the levels. The sound during the game is minimal.
-
-MazezaM game for the ColecoVision at the third level, with rendered unsolvable puzzle. 
-The Colecovision version features a whole set of twelve levels in total. Some of the rooms are small and very easy to overcome, but some of them are wide 
-and a real headache to pass. The game is available on very wide range of platforms, with peculiarities and features corresponding to each different version, 
-most of which where started from scratch and build upon.
-
-Short:    Puzzle game for the ColecoVision consoles.
-
-Author:   http://hirudov.com
-
-Version:  1.1
-
-Type:     game/think
-
-
-MazezaM - a puzzle game
-
-Introduction:
-
-=============
-
-MazezaM (pronounced "may-zam") is a simple puzzle game. You enter the
-mazezam on the left and you have to get to the exit on the right by
-pushing rows of blocks left and right.
-This is the ColecoVision version. Use the Joystick in port 1 to move the
-hero and press the Fire button to retry the level.
-
-
-To the best of my knowledge MazezaM's specific game logic is original. 
-Unfortunately, there are so many puzzles out there that it is impossible for
-me to be sure.
-If you are aware of a prior instance of the idea, please get
-in touch. If possible, include a link which I can add to my web page.
-
-The idea for MazezaM came to me while recalling an Oric-1 type-in game
-called "Fall Guy" (from the book "Sixty Programs for the Oric-1" by Robert
-Erskine, 
-Humphrey Walwyn, Paul Stanley and Michael Bews). The game play is a
-reminiscent of the game Sokoban (Thinking Rabbit, Inc) and also bears a
-resemblance to 
-"sliding block" or "sliding piece" puzzles where wooden shapes
-are moved around in order to get a (usually larger) shape from one side of the
-puzzle to the other. 
-The name "MazezaM" was suggested by Robert Byrne.
-
-
-New Levels Wanted:
-
-==================
-
-If you like this game and are good at designing levels, I encourage you to
-create levels and send them to any of the authors for include  in  further
-versions. 
-Credit of course will be given.
-
-
-ColecoVision version
-
-Copyright (C) 2004 Ventzislav Tzvetkov
-
-http://hirudov.com
-
-Developed using SDCC with help of tools and
-libraries by Daniel Bienvenu's and Marcel de Kogel.
-
-Tested with MEKA 0.73 WIP and ColEm Amiga v1.0 Release 5.
-
