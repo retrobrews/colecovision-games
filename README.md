@@ -17,11 +17,13 @@ Homebrew ColecoVision North games:
  - Deep Dungeon Adventure<br />
  - Destructor SCE<br />
  - Dragon's Lair<br />
+ - Dungeon and trolls<br />
  - Front Line S.C.E<br />
  - Frostbite<br />
  - Girl's Garden<br />
  - Golgo 13<br />
  - Gulkave<br />
+ - Helifire<br />
  - Heroes Arena<br />
  - IO<br />
  - JetP4K!<br />
@@ -29,13 +31,18 @@ Homebrew ColecoVision North games:
  - King's Valley<br />
  - Konami's Ping Pong<br />
  - Kralizec Tetris<br />
+ - Lock'n chase<br />
  - Mecha-8<br />
  - Module Man<br />
  - Mopiranger<br />
+ - Nibbli<br />
  - Ninja Princess<br />
+ - Ozma wars<br />
+ - Pang<br />
  - Peek-A-Boo<br />
  - Pitfall II Arcade<br />
  - Princess Quest<br />
+ - Puzzli<br />
  - Quest For The Golden Chalice<br />
  - Santa Must Save Christmas<br />
  - Schlange CV<br />
@@ -47,6 +54,8 @@ Homebrew ColecoVision North games:
  - Shunting Puzzle<br />
  - Squares!<br />
  - Star Force<br />
+ - Starcom<br />
+ - StarShip Defence Force<br />
  - Stray Cat<br />
  - Subroc Super Game<br />
  - Sudoku<br />
