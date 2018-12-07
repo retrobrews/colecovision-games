@@ -39,14 +39,14 @@
         <game>
           <path>./bombjack.rom</path>
           <name>BombJack</name>
-          <desc>Take to the skies as you play the part of the intrepid hero Bomb Jack, the man without fear, as he indulges his incurable hobby of bomb collecting.</desc>
+          <desc>Take to the skies as you play the part of the intrepid hero Bomb Jack, the man without fear, as he indulges his incurable hobby of bomb collecting. Bomb Jack will take you around the world from Egypt to Greece, sunsoaked beaches to the skies of New York City, but don't expect a holiday in this game. Danger threatens from every side in the form of deadly robots, rogue satellites and even killer-sparrows!</desc>
           <image>./bombjack.png</image>
           <rating>0</rating>
-          <releasedate>20120101T000000</releasedate>
+          <releasedate>20150330T000000</releasedate>
           <developer>Michel Louvet</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
-          <genre>BombJack</genre>
+          <genre>Bombjack RC2.2</genre>
       </game>
         <game>
           <path>./boxxle.rom</path>
@@ -192,6 +192,18 @@
           <players>1</players>
           <genre>Dragon's Lair</genre>
       </game>
+       <game>
+          <path>./dungeonandtrolls.rom</path>
+          <name>Dungeon & Trolls</name>
+          <desc>The game is quite simple. Each participant is imprisoned in a labyrinth with only one exit door. Once inside, the door is magically locked. In order to exit, you have to find the magic key hidden somewhere in the maze.</desc>
+          <image>./dungeonandtrolls.png</image>
+          <rating>0</rating>
+          <releasedate>20140408T000000</releasedate>
+          <developer>Michel Louvet</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Dungeon & Trolls</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./frontlinesce.rom</path>
           <name>Front Line S.C.E</name>
@@ -251,6 +263,18 @@
           <players>1</players>
           <genre>Gulkave</genre>
       </game>
+       <game>
+          <path>./helifire.rom</path>
+          <name>Helifire</name>
+          <desc>The player controls a submarine that shoots down helicopters. You and your men managed to enter a secret base to steal two not friendly submarines. You took control of them but while escaping the enemy’s lair the alarm was raised. Now the whole hostile army is chasing you across the sea. Will you survive? 2 players can play together on the same screen!</desc>
+          <image>./helifire.png</image>
+          <rating>0</rating>
+          <releasedate>20130219T000000</releasedate>
+          <developer>Michel Louvet</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Helifire RC1.0</genre>
+          <players>1-2</players>
+       </game>
         <game>
           <path>./heroesarena.rom</path>
           <name>Heroes Arena</name>
@@ -335,6 +359,18 @@
           <players>1</players>
           <genre>Kralizec Tetris</genre>
       </game>
+       <game>
+          <path>./locknchase.rom</path>
+          <name>Lock 'n' Chase</name>
+          <desc>Your thief's robbing a local bank. Police are in hot pursuit! Make tracks down the vault corridors. Swipe gold coins and other treasures as you go! Keep one step ahead of the law. ! Lock doors and throw cops off your trail! Collide with a cop...he's "caught". ! Keep on the run. !</desc>
+          <image>./locknchase.png</image>
+          <rating>0</rating>
+          <releasedate>20121009T000000</releasedate>
+          <developer>Michel Louvet</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Lock 'n' Chase RC2.8.2</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./mecha8.rom</path>
           <name>Mecha-8</name>
@@ -371,6 +407,18 @@
           <players>1</players>
           <genre>Mopiranger</genre>
       </game>
+       <game>
+          <path>./nibbli.rom</path>
+          <name>Nibbli</name>
+          <desc>Slinking through an unknown land, Nibbli finds himself in an iridescent world of constant change. Gorging and gobbling, out-of-control Nibbli devours everything in sight. Still he must complete his task. He must explore glowing new worlds where even greater challenge await. As Nibbli, Nibbler's son, you must chart your course while moving at increasingly exhilarating speeds. Beware - what looks like an easy route may be the path to your destruction.</desc>
+          <image>./nibbli.png</image>
+          <rating>0</rating>
+          <releasedate>20140621T000000</releasedate>
+          <developer>Michel Louvet</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Nibbli RC1.1</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./ninjaprincess.rom</path>
           <name>Ninja Princess</name>
@@ -383,6 +431,30 @@
           <players>1</players>
           <genre>Ninja Princess</genre>
       </game>
+       <game>
+          <path>./ozmawars.rom</path>
+          <name>Ozma Wars</name>
+          <desc>War is raging in the solar system of Ozma. Alien armies invaded the area spreading death and destruction among the Human populations living on the 4 inhabited planets of this star. You are the captain of the Star End, a space ship sent to stop the enemies. Prepare for battle as the fight is going to be harsh. ! The whole mankind is threatened if this outpost falls. ! As it will be a long mission for sure, docking ships will meet you along your journey to replenish your energy.</desc>
+          <image>./ozmawars.png</image>
+          <rating>0</rating>
+          <releasedate>20110622T000000</releasedate>
+          <developer>Michel Louvet</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Ozma wars RC1.1c</genre>
+          <players>1-2</players>
+       </game>
+       <game>
+          <path>./pang.rom</path>
+          <name>Pang</name>
+          <desc>The balloons are coming!! - but you're not worried - you're fearless Pang, one of the Buster Bros.! You'll need to use every inch of your arcade skills to guide the intrepid adventurer through several countries shooting balloons as you go.</desc>
+          <image>./pang.png</image>
+          <rating>0</rating>
+          <releasedate>20121106T000000</releasedate>
+          <developer>Michel Louvet</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Pang RC2.0</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./peekaboo.rom</path>
           <name>Peek-A-Boo</name>
@@ -419,6 +491,18 @@
           <players>1</players>
           <genre>Princess Quest</genre>
       </game>
+       <game>
+          <path>./puzzli.rom</path>
+          <name>Puzzli</name>
+          <desc>Max has got a cat named Kit. This cat is very special. Indeed, he can speak… and he does too much! He spends his time asking Max for food. His favourite meal? Fresh fish of course. Max knows that the cat would eat fish, but would not wet its feet. So, he has decided to go fishing, out of friendship, to feed his hungry companion. Here you are, in the middle of the ocean on your frail craft, armed with your fishing rod and some bait fish. Will you bring enough food to satisfy your greedy Kit cat?</desc>
+          <image>./puzzli.png</image>
+          <rating>0</rating>
+          <releasedate>20110403T000000</releasedate>
+          <developer>Michel Louvet</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Puzzli RC1.4b</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./questforthegoldenchalice.rom</path>
           <name>Quest For The Golden Chalice</name>
@@ -551,6 +635,30 @@
           <players>1</players>
           <genre>Star Force</genre>
       </game>
+       <game>
+          <path>./starcom.rom</path>
+          <name>Starcom</name>
+          <desc>The nefarious Emperor Dark is trying to take over our Solar system. The Shadow Force legions with their base ships and their fighters are threatening the Earth. You, as Colonel Paul Derringer also known as "Dash", take the control of a Starmax, a Class 1 Transport Missile Cruiser, to fly into battle to destroy the enemy fleet. You will attempt to stop them in the main asteroid belt between the orbits of Mars and Jupiter.</desc>
+          <image>./starcom.png</image>
+          <rating>0</rating>
+          <releasedate>20120704T000000</releasedate>
+          <developer>Michel Louvet</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Starcom RC1.0</genre>
+          <players>1</players>
+       </game>
+       <game>
+          <path>./sdf.rom</path>
+          <name>StarShip Defence Force</name>
+          <desc>A new alien army has defeated the Ozma solar system. Now their ships are heading towards Earth. Alien forces are too strong. The only chance for mankind is to leave Earth and find another planet far away from the aliens. Human survivors take place into starships to seek a new home. You coordinate the actions of two gunners on a starship stayed behind to stop the enemies in a crossfire.  Make sure they don't break your energy shield and destroy your spacecraft. The future of mankind is in your hands!</desc>
+          <image>./sdf.png</image>
+          <rating>0</rating>
+          <releasedate>20150117T000000</releasedate>
+          <developer>Michel Louvet</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>StarShip Defence Force RC1.1</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./straycat.rom</path>
           <name>Stray Cat</name>
