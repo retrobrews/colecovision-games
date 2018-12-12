@@ -1,0 +1,20 @@
+Turbo (2010 Daniel Bienvenu) [Standard Controller Hack]
+
+Turbo is a racing game released in 1981 by Sega. It was one of the most popular arcade games of 1981. 
+The game was manufactured three formats: standard upright, cabaret/mini, and a seated environmental/cockpit.
+
+Turbo requires the player to navigate a road race through different urban and rural locations, through 
+differing weather conditions, and during changing times of day. The cars in the game resemble Formula 1 
+race cars. In order to proceed, the player must pass and stay ahead of at least 30 competing cars before 
+time expires. Some opponents drive predictably, while others swerve across the road suddenly.
+
+In the first round, the player has unlimited lives; collisions with other vehicles will return the 
+player's car to the starting line. In subsequent rounds, the player is limited to three lives, and 
+awarded an additional life (up to a total of four) for each completed round. In addition to competing 
+racers, an ambulance occasionally comes along from behind and overtakes the player - they must be avoided, 
+as contact with them will cause the player to lose a life; the game will be over when all player lives are gone.
+
+http://www.colecovision.ca
+http://atariage.com/forums/topic/88120-colecovision-turbo/
+https://www.youtube.com/watch?v=jYGIcfg4NbM
+https://www.youtube.com/watch?v=HH5jPc0p9ro
