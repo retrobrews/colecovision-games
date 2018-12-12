@@ -1,0 +1,21 @@
+Reversi - Diamond Dash (2004 Daniel Bienvenu)
+
+For several years, I tried to code the artificial intelligence of this game. 
+At first it took about an hour per game at the highest difficulty level, then I was able to optimize the waiting time with assembly language. 
+Tired of coding it, *I put* it on the ice until AtariAge asked to publish this game. For the occasion, I added the bonus game Diamond Dash.
+
+Reversi 
+Based on the classic board game where your objective is to capture the most pieces on the game board by flipping discs to your color. 
+A disc, or an unbroken line of discs of the same color, is captured when it becomes flanked on opposite ends by two opposing pieces, 
+one of which must be the disc that was just placed on the board. The player with the most discs at the end of the game is the winner! 
+A tie can also result if both players have the same number of discs at the end. Now you can enjoy this masterpiece of strategic combat on 
+your ColecoVision game console, thanks to ColecoVision programmer Daniel Bienvenue.
+
+Diamond Dash
+Dig through five mountains with a limited supply of dynamite, collecting all the diamonds as fast as you can! Do you have the 
+skill to make it through all five mountains?
+
+http://www.ccjvq.com/newcoleco/
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=llgu4bUtq2w
+https://www.youtube.com/watch?v=s3GxiFekCmc

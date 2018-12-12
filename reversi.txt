@@ -1,0 +1,11 @@
+Reversi (2003 Daniel Bienvenu)
+
+Reversi is based on the classic board game where your objective is to capture the most pieces on the game board by flipping discs to your color. 
+A disc, or an unbroken line of discs of the same color, is captured when it becomes flanked on opposite ends by two opposing pieces, 
+one of which must be the disc that was just placed on the board. The player with the most discs at the end of the game is the winner! 
+A tie can also result if both players have the same number of discs at the end. Now you can enjoy this masterpiece of strategic combat on 
+your ColecoVision game console, thanks to ColecoVision programmer Daniel Bienvenue.
+
+http://www.ccjvq.com/newcoleco/
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=s_AGuPj4IjU

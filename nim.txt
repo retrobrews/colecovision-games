@@ -1,0 +1,6 @@
+NIM (2000 Daniel Bienvenu)
+
+In this game you are starting with 16 shells. You are playing against the computer, You can take maximum 3 shells. Latest taking the shell is the looser.
+
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=z6XCNYxzvH0
