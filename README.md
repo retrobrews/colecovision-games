@@ -1,71 +1,102 @@
 # colecovision-games
 Homebrew ColecoVision North games:
 
- - Bank Panic<br />
- - Bankruptcy Builder<br />
- - Black Onyx<br />
- - BombJack<br />
- - Boxxle<br />
- - Buck Rogers Super Game<br />
- - Caverns of Titan<br />
- - Circus Charlie<br />
- - Cold Blood<br />
- - Colored Gravity<br />
- - Commando Returns<br />
- - CYE<br />
- - Danger Tower<br />
- - Deep Dungeon Adventure<br />
- - Destructor SCE<br />
- - Dragon's Lair<br />
- - Dungeon and trolls<br />
- - Front Line S.C.E<br />
- - Frostbite<br />
- - Girl's Garden<br />
- - Golgo 13<br />
- - Gulkave<br />
- - Helifire<br />
- - Heroes Arena<br />
- - IO<br />
- - JetP4K!<br />
- - Kaboom!<br />
- - King's Valley<br />
- - Konami's Ping Pong<br />
- - Kralizec Tetris<br />
- - Lock'n chase<br />
- - Mecha-8<br />
- - Module Man<br />
- - Mopiranger<br />
- - Nibbli<br />
- - Ninja Princess<br />
- - Ozma wars<br />
- - Pang<br />
- - Peek-A-Boo<br />
- - Pitfall II Arcade<br />
- - Princess Quest<br />
- - Puzzli<br />
- - Quest For The Golden Chalice<br />
- - Santa Must Save Christmas<br />
- - Schlange CV<br />
- - Search For The Stolen Crown Jewels<br />
- - Search For The Stolen Crown Jewels II<br />
- - Search For The Stolen Crown Jewels III<br />
- - Shmup!<br />
- - Shouganai<br />
- - Shunting Puzzle<br />
- - Squares!<br />
- - Star Force<br />
- - Starcom<br />
- - StarShip Defence Force<br />
- - Stray Cat<br />
- - Subroc Super Game<br />
- - Sudoku<br />
- - Super Action Soccer<br />
- - Thexder<br />
- - Track and Field<br />
- - Traffic Jam<br />
- - Txupinazo!<br />
- - Wonder Boy<br />
- - Zaxxon Super Game<br />
+  - <b>Air Battle</b> by Daniel Bienvenu<br/ >
+ - <b>Bank Panic</b> by Team Pixelboy<br/ >
+ - <b>Bankruptcy Builder</b> by Philip Klaus Krause<br/ >
+ - <b>Bejeweled</b> by Daniel Bienvenu<br/ >
+ - <b>Black Onyx</b> by Team Pixelboy<br/ >
+ - <b>Bombjack</b> by Michel Louvet<br/ >
+ - <b>Boxxle</b> by Team Pixelboy<br/ >
+ - <b>Breakout</b> by Daniel Bienvenu<br/ >
+ - <b>Buck Rogers Super Game</b> by Team Pixelboy<br/ >
+ - <b>Caverns of Titan</b> by Team Pixelboy<br/ >
+ - <b>Circus Charlie</b> by Team Pixelboy<br/ >
+ - <b>Cold Blood</b> by Team Pixelboy<br/ >
+ - <b>Colored Gravity</b> by Philip Klaus Krause<br/ >
+ - <b>Commando Returns</b> by Michel Louvet<br/ >
+ - <b>CYE</b> by Philip Klaus Krause<br/ >
+ - <b>DacMan</b> by Daniel Bienvenu<br/ >
+ - <b>Danger Tower</b> by Team Pixelboy<br/ >
+ - <b>Deep Dungeon Adventure</b> by Team Pixelboy<br/ >
+ - <b>Deflektor Kollection</b> by Daniel Bienvenu<br/ >
+ - <b>Destructor</b> by Daniel Bienvenu<br/ >
+ - <b>Destructor SCE</b> by Team Pixelboy<br/ >
+ - <b>Diamond Dash</b> by Daniel Bienvenu<br/ >
+ - <b>Double Breakout</b> by Daniel Bienvenu<br/ >
+ - <b>Dragon's Lair</b> by Team Pixelboy<br/ >
+ - <b>Dungeon and trolls</b> by Michel Louvet<br/ >
+ - <b>Easter Bunny</b> by Daniel Bienvenu<br/ >
+ - <b>Front Line S.C.E</b> by Team Pixelboy<br/ >
+ - <b>Frostbite</b> by Team Pixelboy<br/ >
+ - <b>Game Pack 1</b> by Daniel Bienvenu<br/ >
+ - <b>Game Pack 2</b> by Daniel Bienvenu<br/ >
+ - <b>GhostBlaster</b> by Daniel Bienvenu<br/ >
+ - <b>Girl's Garden</b> by Team Pixelboy<br/ >
+ - <b>Golgo 13</b> by Team Pixelboy<br/ >
+ - <b>Gulkave</b> by Team Pixelboy<br/ >
+ - <b>Happy Halloween</b> by Daniel Bienvenu<br/ >
+ - <b>Helifire</b> by Michel Louvet<br/ >
+ - <b>Heroes Arena</b> by Team Pixelboy<br/ >
+ - <b>Insane Pickin' Sticks VIII</b> by Daniel Bienvenu<br/ >
+ - <b>IO</b> by Philip Klause Krause<br/ >
+ - <b>Jeepers Creepers</b> by Daniel Bienvenu<br/ >
+ - <b>JetP4K!</b> by Harvey deKleine<br/ >
+ - <b>Jump Or Die</b> by Daniel Bienvenu<br/ >
+ - <b>Kaboom!</b> by Team Pixelboy<br/ >
+ - <b>Kill Barney In Tokyo</b> by Daniel Bienvenu<br/ >
+ - <b>Killer Instinct</b> by Daniel Bienvenu<br/ >
+ - <b>King's Valley</b> by Team Pixelboy<br/ >
+ - <b>Konami's Ping Pong</b> by Team Pixelboy<br/ >
+ - <b>Kralizec Tetris</b> by Team Pixelboy<br/ >
+ - <b>Lock'n chase</b> by Michel Louvet<br/ >
+ - <b>Mecha-8</b> by Team Pixelboy<br/ >
+ - <b>Module Man</b> by Team Pixelboy<br/ >
+ - <b>Mopiranger</b> by Team Pixelboy<br/ >
+ - <b>Ms. Space Fury</b> by Daniel Bienvenu<br/ >
+ - <b>Nibbli</b> by Michel Louvet<br/ >
+ - <b>NIM</b> by Daniel Bienvenu<br/ >
+ - <b>Ninja Princess</b> by Team Pixelboy<br/ >
+ - <b>Ozma wars</b> by Michel Louvet<br/ >
+ - <b>Pang</b> by Michel Louvet<br/ >
+ - <b>Peek-A-Boo</b> by Team Pixelboy<br/ >
+ - <b>Pitfall II Arcade</b> by Team Pixelboy<br/ >
+ - <b>Princess Quest</b> by Team Pixelboy<br/ >
+ - <b>Puzzli</b> by Michel Louvet<br/ >
+ - <b>Quest For The Golden Chalice</b> by Team Pixelboy<br/ >
+ - <b>Reversi</b> by Daniel Bienvenu<br/ >
+ - <b>Reversi and Diamond Dash</b> by Daniel Bienvenu<br/ >
+ - <b>Santa Must Save Christmas</b> by Michel Louvet<br/ >
+ - <b>Schlange CV</b> by Philip Klaus Krause<br/ >
+ - <b>Search For The Stolen Crown Jewels</b> by Philip Klaus Krause<br/ >
+ - <b>Search For The Stolen Crown Jewels II</b> by Philip Klaus Krause<br/ >
+ - <b>Search For The Stolen Crown Jewels III</b> by Philip Klaus Krause<br/ >
+ - <b>Shmup!</b> by Team Pixelboy<br/ >
+ - <b>Shouganai</b> by Team Pixelboy<br/ >
+ - <b>Shunting Puzzle</b> by Philip Klause Krause<br/ >
+ - <b>Slither</b> by Daniel Bienvenu<br/ >
+ - <b>Smash</b> by Daniel Bienvenu<br/ >
+ - <b>Space Trainer</b> by Daniel Bienvenu<br/ >
+ - <b>Spectank</b> by Daniel Bienvenu<br/ >
+ - <b>Squares!</b> by Harvey deKleine<br/ >
+ - <b>Star Force</b> by Team Pixelboy<br/ >
+ - <b>Starcom</b> by Michel Louvet<br/ >
+ - <b>StarShip Defence Force</b> by Michel Louvet<br/ >
+ - <b>Stray Cat</b> by Team Pixelboy<br/ >
+ - <b>Subroc Super Game</b> by Team Pixelboy<br/ >
+ - <b>Sudoku</b> by Team Pixelboy<br/ >
+ - <b>Super Action Soccer</b> by Team Pixelboy<br/ >
+ - <b>Thexder</b> by Team Pixelboy<br/ >
+ - <b>Track and Field</b> by Team Pixelboy<br/ >
+ - <b>Traffic Jam</b> by Team Pixelboy<br/ >
+ - <b>Turbo</b> by Daniel Bienvenu<br/ >
+ - <b>Txupinazo!</b> by Team Pixelboy<br/ >
+ - <b>Valentine Game</b> by Daniel Bienvenu<br/ >
+ - <b>Venture</b> by Daniel Bienvenu<br/ >
+ - <b>Victory</b> by Daniel Bienvenu<br/ >
+ - <b>Wonder Boy</b> by Team Pixelboy<br/ >
+ - <b>Zaxxon Super Game</b> by Team Pixelboy<br/ >
+
 
 *Note: The ROMs listed here have been approved for free distribution on this site/project only. If you want to share it, please contact owner/developer. Thanks!
 
