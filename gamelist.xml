@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <gameList>
         <game>
+          <path>./airbattle.rom</path>
+          <name>Air Battle</name>
+          <desc>Aerial battle - action/simulation type of game.</desc>
+          <image>./airbattle.png</image>
+          <rating>0</rating>
+          <releasedate>20020101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Air Battle</genre>
+      </game>
+        <game>
           <path>./bankpanic.rom</path>
           <name>Bank Panic</name>
           <desc>This must be the most dangerous job in the west! You've recently been recruited as the town's newest sheriff, but that shiny new badge of yours does nothing to scare away the crooks! The local bank is often the target of surprise bank robberies, and you've decided to take the bull by the horns and stand guard as the bank's self-appointed security officer, to shoot the robbers as soon as they show their ugly faces. But be careful! Shoot a regular customer, get shot by a robber, or allow bombs to go off and you'll be out of a job faster than you can say "skedaddle"!</desc>
@@ -24,6 +36,18 @@
           <players>1-2</players>
           <genre>Bankruptcy Builder</genre>
       </game>
+       <game>
+          <path>./bejeweled.rom</path>
+          <name>Bejeweled</name>
+          <desc>The objective of this game is to swap one gem with an adjacent gem to form a horizontal or vertical chain of three or more gems of the same color. Bonus points are given when chains of more than three identical gems are formed and when two chains are formed in one swap. Gems disappear when chains are formed and gems fall from the top to fill in gaps. Sometimes chain reactions, called cascades, are triggered, where chains are formed by the falling gems. Cascades are awarded with bonus points. There are two variations of the game to choose from.</desc>
+          <image>./bejeweled.png</image>
+          <rating>0</rating>
+          <releasedate>20020101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Bejeweled</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./blackonyx.rom</path>
           <name>Black Onyx</name>
@@ -59,6 +83,18 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Boxxle</genre>
+      </game>
+        <game>
+          <path>./breakout.rom</path>
+          <name>Breakout</name>
+          <desc>In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.</desc>
+          <image>./breakout.png</image>
+          <rating>0</rating>
+          <releasedate>19990101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Breakout</genre>
       </game>
         <game>
           <path>./buckrogerssupergame.rom</path>
@@ -145,6 +181,18 @@
           <genre>CYE</genre>
       </game>
         <game>
+          <path>./dacman.rom</path>
+          <name>DacMan</name>
+          <desc>PACMAN clone. The player controls a circular character which has a pie wedge shaped mouth to eat pellets through a maze, eating dots.</desc>
+          <image>./dacman.png</image>
+          <rating>0</rating>
+          <releasedate>20000101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>DacMan</genre>
+      </game>
+        <game>
           <path>./dangertower.rom</path>
           <name>Danger Tower</name>
           <desc>The plan was simple: To break into the Danger Tower and steal the world's largest diamond. But after disabling the main alarm system, finding your way to the basement and grabbing the treasure, you tripped over a secondary alarm and a horde of holobots were activated. A single electrified touch of these holobots can kill you, so you have to evade them long enough for the floor timer to count down to zero and see the stairway to the next floor appear. You must survive through all 15 floors in order to reach the top of the tower and escape!</desc>
@@ -155,6 +203,18 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Danger Tower</genre>
+      </game>
+        <game>
+          <path>./deflektorkollection.rom</path>
+          <name>Deflektor Kollection</name>
+          <desc>In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.</desc>
+          <image>./deflektorkollection.png</image>
+          <rating>0</rating>
+          <releasedate>20050101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Deflektor Kollection</genre>
       </game>
         <game>
           <path>./deepdungeonadventure.rom</path>
@@ -169,6 +229,18 @@
           <genre>Deep Dungeon Adventure</genre>
       </game>
         <game>
+          <path>./destructor.rom</path>
+          <name>Destructor</name>
+          <desc>Destructor is a video game published in 1984 on ColecoVision by Coleco Industries, Inc.. It's a racing / driving game, set in a sci-fi / futuristic theme.</desc>
+          <image>./destructor.png</image>
+          <rating>0</rating>
+          <releasedate>20100101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Destructor</genre>
+      </game>
+        <game>
           <path>./destructorsce.rom</path>
           <name>Destructor SCE</name>
           <desc>A gem-collecting quest that's out of this world! Your starcruiser lands in the hostile alien city of Araknid to collect precious Crystals needed desperately on Earth. Your equipment: the mighty Ram-car. Use your Ram-car to bump Krystaloids, transforming them into precious Crystals!</desc>
@@ -179,6 +251,30 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Destructor SCE</genre>
+      </game>
+        <game>
+          <path>./diamonddash.rom</path>
+          <name>Diamond Dash</name>
+          <desc>Dig five mountains with dynamites as fast as you can in this incredible 4k game where you can't die but can be stuck.</desc>
+          <image>./diamonddash.png</image>
+          <rating>0</rating>
+          <releasedate>20040101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Diamond Dash</genre>
+      </game>
+        <game>
+          <path>./doublebreakout.rom</path>
+          <name>Double Breakout</name>
+          <desc>In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed.</desc>
+          <image>./doublebreakout.png</image>
+          <rating>0</rating>
+          <releasedate>20030101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Double Breakout</genre>
       </game>
         <game>
           <path>./dragonslair.rom</path>
@@ -205,6 +301,18 @@
           <players>1</players>
        </game>
         <game>
+          <path>./easterbunny.rom</path>
+          <name>Easter Bunny</name>
+          <desc>You are the Easter bunny in charge to collect the eggs but one bird decided that's enough and try to stop you.</desc>
+          <image>./easterbunny.png</image>
+          <rating>0</rating>
+          <releasedate>20070101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Easter Bunny</genre>
+      </game>
+        <game>
           <path>./frontlinesce.rom</path>
           <name>Front Line S.C.E</name>
           <desc>Uses a standard controller. Test your courage in action-packed combat! You're a lonely infantryman, fighting through treacherous terrain. The enemy comes at you from all sides. Counterattack with your pistol and grenades before it's too late! The battleground changes constantly. Watch out for deadly land mines! When enemy tanks close in, leap into your own tank! Your ultimate mission: Reach and destroy the enemy's fortress.</desc>
@@ -227,6 +335,42 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Frostbite</genre>
+      </game>
+        <game>
+          <path>./gamepack1.rom</path>
+          <name>Game Pack 1</name>
+          <desc>Compilation of games, most of them are adaptations of simple games in BASIC from an old book for the Oric computer.</desc>
+          <image>./gamepack1.png</image>
+          <rating>0</rating>
+          <releasedate>20020101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Game Pack 1</genre>
+      </game>
+        <game>
+          <path>./gamepack2.rom</path>
+          <name>Game Pack 2</name>
+          <desc>Board games with the challenge of doing artificial intelligence. There are 4 bonus games ( to unlock ) in asection you can access by pressing 0 at the menu screen.</desc>
+          <image>./gamepack2.png</image>
+          <rating>0</rating>
+          <releasedate>20040101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Game Pack 2</genre>
+      </game>
+        <game>
+          <path>./ghostblaster.rom</path>
+          <name>GhostBlaster</name>
+          <desc>You are a fearless GHOSTBLASTER. Your job is to help your clients by ridding their homes of unwanted ghosts and phantoms, and the magical gems that attract them. But be careful, these prank-playing ghosts and phantoms not only affect the home's structure, but they will be quick to attack if they think for even one second you are trying to stop them or remove their magical gems.</desc>
+          <image>./ghostblaster.png</image>
+          <rating>0</rating>
+          <releasedate>20090101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>GhostBlaster</genre>
       </game>
         <game>
           <path>./girlsgarden.rom</path>
@@ -263,6 +407,18 @@
           <players>1</players>
           <genre>Gulkave</genre>
       </game>
+        <game>
+          <path>./happyhalloween.rom</path>
+          <name>Happy Halloween</name>
+          <desc>Shooting game.</desc>
+          <image>./happyhalloween.png</image>
+          <rating>0</rating>
+          <releasedate>20010101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Happy Halloween</genre>
+      </game>
        <game>
           <path>./helifire.rom</path>
           <name>Helifire</name>
@@ -288,6 +444,18 @@
           <genre>Heroes Arena</genre>
       </game>
         <game>
+          <path>./insanepickinsticks.rom</path>
+          <name>Insane Pickin' Sticks VIII</name>
+          <desc>Simply move around to collect as many sticks as possible. Humoristic messages appear during the game. Enjoy!</desc>
+          <image>./insanepickinsticks.png</image>
+          <rating>0</rating>
+          <releasedate>20090425T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Insane Pickin' Sticks VIII</genre>
+      </game>
+        <game>
           <path>./io.rom</path>
           <name>IO</name>
           <desc>The main aspect of the game is to supply enough sulphur to your HQ by building a transportation network consisting of sulphur sources, depots, roads and rail. At the start of the game, you should first connect your sulphur source to the HQ. Rail connections have higher capacity than roads, but need more time to construct. One unupgraded sulphur source supplies enough sulphur for one idle worker. Busy workers need twice as much.</desc>
@@ -298,6 +466,18 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>IO</genre>
+      </game>
+        <game>
+          <path>./jeeperscreepers.rom</path>
+          <name>Jeepers Creepers</name>
+          <desc>It's Halloween Night and your girlfriend has been kidnapped by an evil wizard who wants to lum her into his undead bride! Armed with an unlimited supply of axes, you set out the rescue her, but you'll have to face hordes of skeletons, ghosts and green-skined monsters. You must kill them all in order to progress towards the wizard's castle. Can you save your love? This is one halloween night you'll never forget!</desc>
+          <image>./jeeperscreepers.png</image>
+          <rating>0</rating>
+          <releasedate>20070101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Jeepers Creepers</genre>
       </game>
         <game>
           <path>./jetp4k.rom</path>
@@ -312,6 +492,18 @@
           <genre>JetP4K!</genre>
       </game>
         <game>
+          <path>./jumpordie.rom</path>
+          <name>Jump Or Die</name>
+          <desc>Experimentation of a plateform engine with small sprites. You should know how to jump in order to collect all the keys. Coded in a single day, only 1 level.</desc>
+          <image>./jumpordie.png</image>
+          <rating>0</rating>
+          <releasedate>20060101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Jump Or Die</genre>
+      </game>
+        <game>
           <path>./kaboom.rom</path>
           <name>Kaboom!</name>
           <desc>Our charming Mad Bomber really doesn't mean any harm. It's just that he loves nothing better than to drop his bombs and watch them explode! Only you can stop him! As he tosses his bombs, you race to douse their fuses with your buckets of water. The more bombs that splash in your buckets, the more points you score. But, the more points you score, the faster the bombs drop! Miss a bomb, and you'll learn how "Kaboom!" got its name. Here's a true test of stamina, reflexes and concentration - Activision's Kaboom! brought to your ColecoVision by N'APA'LM Software!</desc>
@@ -322,6 +514,30 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Kaboom!</genre>
+      </game>
+        <game>
+          <path>./killbarneyintokyo.rom</path>
+          <name>Kill Barney In Tokyo</name>
+          <desc>A two player shooter game.</desc>
+          <image>./killbarneyintokyo.png</image>
+          <rating>0</rating>
+          <releasedate>19970101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>2</players>
+          <genre>Kill Barney In Tokyo</genre>
+      </game>
+        <game>
+          <path>./killerinstinct.rom</path>
+          <name>Killer Instinct</name>
+          <desc>Shooter game based on a cult toys :)</desc>
+          <image>./killerinstinct.png</image>
+          <rating>0</rating>
+          <releasedate>19970101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Killer Instinct</genre>
       </game>
         <game>
           <path>./kingsvalley.rom</path>
@@ -407,6 +623,18 @@
           <players>1</players>
           <genre>Mopiranger</genre>
       </game>
+        <game>
+          <path>./msspacefury.rom</path>
+          <name>Ms. Space Fury</name>
+          <desc>During each round, you must destroy all alien ships and everytime you successfully complete this task, there is an intermission where the one-eyed alien creature will taunt you and vow to strike back.</desc>
+          <image>./msspacefury.png</image>
+          <rating>0</rating>
+          <releasedate>20010101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Ms. Space Fury</genre>
+      </game>
        <game>
           <path>./nibbli.rom</path>
           <name>Nibbli</name>
@@ -419,6 +647,18 @@
           <genre>Nibbli RC1.1</genre>
           <players>1</players>
        </game>
+        <game>
+          <path>./nim.rom</path>
+          <name>NIM</name>
+          <desc>In this game you are starting with 16 shells. You are playing against the computer, You can take maximum 3 shells. Latest taking the shell is the looser.</desc>
+          <image>./nim.png</image>
+          <rating>0</rating>
+          <releasedate>20000101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>NIM</genre>
+      </game>
         <game>
           <path>./ninjaprincess.rom</path>
           <name>Ninja Princess</name>
@@ -516,6 +756,30 @@
           <genre>Quest For The Golden Chalice</genre>
       </game>
         <game>
+          <path>./reversi.rom</path>
+          <name>Reversi</name>
+          <desc>Reversi is based on the classic board game where your objective is to capture the most pieces on the game board by flipping discs to your color.</desc>
+          <image>./reversi.png</image>
+          <rating>0</rating>
+          <releasedate>20030101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Reversi</genre>
+      </game>
+        <game>
+          <path>./reversianddiamonddash.rom</path>
+          <name>Reversi and Diamond Dash</name>
+          <desc>Reversi - Based on the classic board game where your objective is to capture the most pieces on the game board by flipping discs to your color; Diamond Dash - Dig through five mountains with a limited supply of dynamite, collecting all the diamonds as fast as you can! Do you have the skill to make it through all five mountains? </desc>
+          <image>./reversianddiamonddash.png</image>
+          <rating>0</rating>
+          <releasedate>20040101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Reversi and Diamond Dash</genre>
+      </game>
+        <game>
           <path>./santamustsavechristmas.rom</path>
           <name>Santa Must Save Christmas</name>
           <desc>9 days before Christmas. Santa deliver gift from his factory to the warehouse. But the evil Grinch have done a bad trick. All the gifts are lost in North Pole. Now, you're mission is to get back all gift before Christmas Night! Or eventually make an high score :) :)</desc>
@@ -610,6 +874,54 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Shunting Puzzle</genre>
+      </game>
+        <game>
+          <path>./slither.rom</path>
+          <name>Slither</name>
+          <desc>You control your snake as it slither's around the screen. Where this game differs greatly from Centipede is that you can shoot in 4 different directions at the same time to take out the baddies trying to hunt you down. The bad snakes hunting you down will appear from various angles on the screen, often several at a time.</desc>
+          <image>./slither.png</image>
+          <rating>0</rating>
+          <releasedate>20100101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Slither</genre>
+      </game>
+        <game>
+          <path>./smash.rom</path>
+          <name>Smash</name>
+          <desc>Breakout type of game.. In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed.</desc>
+          <image>./smash.png</image>
+          <rating>0</rating>
+          <releasedate>20040101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Smash</genre>
+      </game>
+        <game>
+          <path>./spacetrainer.rom</path>
+          <name>Space Trainer</name>
+          <desc>A real space action game for two players. Space Trainer reminds a Space War, but there's no need to shoot. Direct the ship to a moving bubble and wins who is faster.</desc>
+          <image>./spacetrainer.png</image>
+          <rating>0</rating>
+          <releasedate>20050101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>2</players>
+          <genre>Space Trainer</genre>
+      </game>
+        <game>
+          <path>./spectank.rom</path>
+          <name>Spectank</name>
+          <desc>In the city of the Spectanks, the heroic Wummel continues the crusade against evil and injustice. Scream around hairpin turns while avoiding enemy cruisers! Blast your way through to grab the energy stars and clear that city sector!</desc>
+          <image>./spectank.png</image>
+          <rating>0</rating>
+          <releasedate>20000101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Spectank</genre>
       </game>
         <game>
           <path>./squares.rom</path>
@@ -744,6 +1056,18 @@
           <genre>Traffic Jam</genre>
       </game>
         <game>
+          <path>./turbo.rom</path>
+          <name>Turbo</name>
+          <desc>Turbo requires the player to navigate a road race through different urban and rural locations, through differing weather conditions, and during changing times of day. The cars in the game resemble Formula 1 race cars. In order to proceed, the player must pass and stay ahead of at least 30 competing cars before time expires. Some opponents drive predictably, while others swerve across the road suddenly.</desc>
+          <image>./turbo.png</image>
+          <rating>0</rating>
+          <releasedate>20100101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Turbo</genre>
+      </game>
+        <game>
           <path>./txupinazo.rom</path>
           <name>Txupinazo!</name>
           <desc>You are a young Texan cowboy called Patsie, living a peaceful life at your parent's ranch. One day, you see the San Ferm?n festival on TV. After watching the 'encierro' (the famous Navarre running of the bulls) you immediately feel you must go to Spain and live that experience on your own. So, after working long hours and saving some money, you manage to buy an airplane ticket to Spain. Everything is ready to start your journey, following Hemingway's steps: Participate in eight consecutive bull runs without getting harmed. The 'fiesta' awaits you!!</desc>
@@ -754,6 +1078,42 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Txupinazo!</genre>
+      </game>
+        <game>
+          <path>./valentinegame.rom</path>
+          <name>Valentine Game</name>
+          <desc>This is a one level guessing type of the game with letters. You have 5 lives, if you do a mistake you have one less. Guess who is your Valentine!</desc>
+          <image>./valentinegame.png</image>
+          <rating>0</rating>
+          <releasedate>20020101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Valentine Game</genre>
+      </game> 
+        <game>
+          <path>./venture.rom</path>
+          <name>Venture</name>
+          <desc>The goal of Venture is to collect treasure from a dungeon. Winky is equipped with a bow and arrow and explores a dungeon with rooms and hallways. The hallways are patrolled by large, tentacled monsters named Hallmonsters, which cannot be killed, injured, or stopped in any way. Once in a room, Winky may kill monsters, avoid traps and gather treasures.</desc>
+          <image>./venture.png</image>
+          <rating>0</rating>
+          <releasedate>20000101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Venture</genre>
+      </game>
+        <game>
+          <path>./victory.rom</path>
+          <name>Victory</name>
+          <desc>In Victory, use your Coleco Roller Controller to rotate your ship as the space around you scrolls by, smack your fire button to take out anything that moves and snag a power-up or two along the way to aid in your quest. Similar in style to Asteroids, but with a moving background.</desc>
+          <image>./victory.png</image>
+          <rating>0</rating>
+          <releasedate>20100101T000000</releasedate>
+          <developer>Daniel Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Victory</genre>
       </game>
         <game>
           <path>./wonderboy.rom</path>
