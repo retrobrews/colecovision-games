@@ -1,0 +1,20 @@
+Insane Pickin' Sticks VIII (2009 Daniel Bienvenu) [Over 9000]
+
+An adaptation of a PC game programmed by Rachel Morris.
+This game is written in C by Daniel Bienvenu aka NewColeco.
+Based on a game for PC by Rachel Morris aka LusikkaMage.
+Featuring Rebekah, Rachel's cousin.
+
+Insanity, 25 avril 2009
+"I love being evil." - LusikkaMage
+Programmed in a single day
+
+Instructions
+Simply move around to collect as many sticks as possible
+Humoristic messages appear during the game.
+Enjoy!
+
+http://atariage.com/forums/topic/143112-colecovision-insane-pickin-sticks-viii-4k-game/
+http://www.ccjvq.com/newcoleco/
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=jlkF01tX_s4

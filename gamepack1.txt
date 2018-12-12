@@ -1,0 +1,8 @@
+Game Pack 1 (2002 Daniel Bienvenu)
+
+With the objective to improve my development kit, I've started to optimize my toolkit library to be able to program even more in the cartridge memory size. 
+After weeks of converting routines into assembly language, I've done this compilation of games, most of them are adaptations of simple games in BASIC 
+from an old book for the Oric computer.
+
+http://www.ccjvq.com/newcoleco/
+http://www.colecovision.ca
