@@ -1,0 +1,11 @@
+DacMan (2000 Daniel Bienvenu)
+
+The player controls a circular character which has a pie wedge shaped mouth to eat pellets through a maze, eating dots.
+During summer 2000, I was thinking of doing another game based on my childhood memories. 
+In the 80s, Canadian Tire did a games compilation for the Commodore VIC-20 computer and one of the games was a primitive PACMAN clone. 
+My adaptation for the ColecoVision is nicer and faster but still the same game idea.
+
+http://www.ccjvq.com/newcoleco/
+http://www.colecovision.ca
+http://cvaddict.com/profile.php?gameid=246
+https://www.youtube.com/watch?v=vCJC8BSYtK4

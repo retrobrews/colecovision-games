@@ -1,0 +1,23 @@
+Breakout (1999 Daniel Bienvenu)
+by Daniel Bienvenu
+Breakout is an arcade game developed and published by Atari, Inc.
+In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. 
+When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. 
+To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.
+For use with a ColecoVision emulator.
+
+You are not allowed to distribute commercialy this ROM.
+Never distribute the ROM file without this text file.
+
+Enjoy!
+
+Author's Comments: "In 1998, I had all the tools to make my first ColecoVision game from scratch. 
+However, it took me months to have the courage to program and publish my first game. 
+I've decided to make something pretty easy, based on my first coded games on Commodore computers when I was young. 
+In the Commodore VIC-20 computer user's manual, there is a code for a bouncing round shape and it inspired me to make my first Breakout games back then. 
+The ColecoVision version has me feeling nostalgic about my childhood."
+
+http://www.ccjvq.com/newcoleco/
+http://www.colecovision.ca
+http://cvaddict.com/profile.php?gameid=259
+https://www.youtube.com/watch?v=cOFt6b0HCg0

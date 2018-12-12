@@ -1,0 +1,11 @@
+Diamond Dash (2004 Daniel Bienvenu)
+
+Dig five mountains with dynamites as fast as you can in this incredible 4k game where you can’t die but can be stuck.
+
+Author's Comments: "For several years, I tried to code the artificial intelligence of this game. 
+At first it took about an hour per game at the highest difficulty level, then I was able to optimize the waiting time with assembly language. 
+Tired of coding it, *I put* it on the ice until AtariAge asked to publish this game. For the occasion, I added the bonus game Diamond Dash."
+
+
+http://www.colecovision.ca
+https://www.youtube.com/watch?v=llgu4bUtq2w
