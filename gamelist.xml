@@ -109,6 +109,18 @@
           <genre>Buck Rogers Super Game</genre>
       </game>
         <game>
+          <path>./canadianminigames.rom</path>
+          <name>Canadian Minigames</name>
+          <desc>4 Minigames: Diamond Dash - Goal is to extract enough diamonds; Easter Bunny - attack and collect all the eggs on the screen; Space Hunter - you are being attacked and need to defend yourself quickly; Get Booty - Your job is to use your precision gunning skills to disable the ship by hitting the base.</desc>
+          <image>./canadianminigames.png</image>
+          <rating>0</rating>
+          <releasedate>20080101T000000</releasedate>
+          <developer>Wick-Foster-Bienvenu</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Canadian Minigames</genre>
+      </game>
+        <game>
           <path>./cavernsoftitan.rom</path>
           <name>Caverns of Titan</name>
           <desc>In the year 2045, The European Space Agency launched the second of two spaceships to Saturn's largest moon, Titan. The first mission was scrubbed after all contact was lost with the spaceship launched five years before. Upon arriving on Titan, the crew of the second mission found the wreckage of the lost spaceship, which had apparently been damaged by an unexpected dense rock belt upon entry into Titan's atmosphere. Important supply components were scattered all over the moon, and it's now the job of Astro Willy to gather these components which are vital to the mission. Guide Astro Willy through the perilous caverns of Titan, as he recovers the scattered components. But be quick about it! Astro Willy's oxygen reserves are very limited!</desc>
@@ -290,14 +302,14 @@
       </game>
        <game>
           <path>./dungeonandtrolls.rom</path>
-          <name>Dungeon & Trolls</name>
+          <name>Dungeon and Trolls</name>
           <desc>The game is quite simple. Each participant is imprisoned in a labyrinth with only one exit door. Once inside, the door is magically locked. In order to exit, you have to find the magic key hidden somewhere in the maze.</desc>
           <image>./dungeonandtrolls.png</image>
           <rating>0</rating>
           <releasedate>20140408T000000</releasedate>
           <developer>Michel Louvet</developer>
           <publisher>HOMEBREW ROM</publisher>
-          <genre>Dungeon & Trolls</genre>
+          <genre>Dungeon and Trolls</genre>
           <players>1</players>
        </game>
         <game>
@@ -311,6 +323,18 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Easter Bunny</genre>
+      </game>
+        <game>
+          <path>./frogmagi.rom</path>
+          <name>Frog Magi</name>
+          <desc>Fight against opponent to get higher strength. </desc>
+          <image>./frogmagi.png</image>
+          <rating>0</rating>
+          <releasedate>19961224T000000</releasedate>
+          <developer>Dale Wick</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Frog Magi</genre>
       </game>
         <game>
           <path>./frontlinesce.rom</path>
@@ -359,6 +383,18 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Game Pack 2</genre>
+      </game>
+        <game>
+          <path>./getbooty.rom</path>
+          <name>Get Booty</name>
+          <desc>You'll have to set the cannon to shoot and sink the ship. But time is pressing.</desc>
+          <image>./getbooty.png</image>
+          <rating>0</rating>
+          <releasedate>20050101T000000</releasedate>
+          <developer>Dale Wick</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Get Booty</genre>
       </game>
         <game>
           <path>./ghostblaster.rom</path>
@@ -422,7 +458,7 @@
        <game>
           <path>./helifire.rom</path>
           <name>Helifire</name>
-          <desc>The player controls a submarine that shoots down helicopters. You and your men managed to enter a secret base to steal two not friendly submarines. You took control of them but while escaping the enemy’s lair the alarm was raised. Now the whole hostile army is chasing you across the sea. Will you survive? 2 players can play together on the same screen!</desc>
+          <desc>The player controls a submarine that shoots down helicopters. You and your men managed to enter a secret base to steal two not friendly submarines. You took control of them but while escaping the enemy's lair the alarm was raised. Now the whole hostile army is chasing you across the sea. Will you survive? 2 players can play together on the same screen!</desc>
           <image>./helifire.png</image>
           <rating>0</rating>
           <releasedate>20130219T000000</releasedate>
@@ -588,6 +624,18 @@
           <players>1</players>
        </game>
         <game>
+          <path>./maidofthemist.rom</path>
+          <name>Maid Of The Mist</name>
+          <desc>In the Mist maid you are in a boat near niagara falls. You must avoid at all costs the driftwood that comes against you from the waterfall. Sounds easy?</desc>
+          <image>./maidofthemist.png</image>
+          <rating>0</rating>
+          <releasedate>20070101T000000</releasedate>
+          <developer>Dale Wick</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Maid Of The Mist</genre>
+      </game>
+        <game>
           <path>./mecha8.rom</path>
           <name>Mecha-8</name>
           <desc>The Earth is under attack! Prepare Mecha-8 for battle! A hero's job is never done, and today perfectly illustrates this rule: A hostile race of aliens of unknown origins have launched a vicious surprise attack on Earth's major cities! Tricia Thunder, the best mech pilot available, has been called away from her vacation to board the Mecha-8, a highly resilient war mech armed with powerful weapons. Tricia's mission is clear: She must first repel the alien onslaught to save as many civilian lives as possible, and then locate the command center of the alien menace and destroy it. But can Tricia do this single-handedly with Mecha-8? She's fully confident that she can, and you're going to help her prove it!</desc>
@@ -734,7 +782,7 @@
        <game>
           <path>./puzzli.rom</path>
           <name>Puzzli</name>
-          <desc>Max has got a cat named Kit. This cat is very special. Indeed, he can speak… and he does too much! He spends his time asking Max for food. His favourite meal? Fresh fish of course. Max knows that the cat would eat fish, but would not wet its feet. So, he has decided to go fishing, out of friendship, to feed his hungry companion. Here you are, in the middle of the ocean on your frail craft, armed with your fishing rod and some bait fish. Will you bring enough food to satisfy your greedy Kit cat?</desc>
+          <desc>Max has got a cat named Kit. This cat is very special. Indeed, he can speak... and he does too much! He spends his time asking Max for food. His favourite meal? Fresh fish of course. Max knows that the cat would eat fish, but would not wet its feet. So, he has decided to go fishing, out of friendship, to feed his hungry companion. Here you are, in the middle of the ocean on your frail craft, armed with your fishing rod and some bait fish. Will you bring enough food to satisfy your greedy Kit cat?</desc>
           <image>./puzzli.png</image>
           <rating>0</rating>
           <releasedate>20110403T000000</releasedate>
@@ -791,6 +839,18 @@
           <players>1</players>
           <genre>Santa Must Save Christmas</genre>
       </game>
+        <game>
+          <path>./santasgiftrun.rom</path>
+          <name>Santa's Gift Run</name>
+          <desc>Deliver gifts to all 6 billion boys and girls!</desc>
+          <image>./santasgiftrun.png</image>
+          <rating>0</rating>
+          <releasedate>20040101T000000</releasedate>
+          <developer>Dale Wick</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>1</players>
+          <genre>Santa's Gift Run</genre>
+      </game>  
         <game>
           <path>./schlangecv.rom</path>
           <name>Schlange CV</name>
@@ -1114,6 +1174,18 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>Victory</genre>
+      </game>
+        <game>
+          <path>./warmfuzzyquestforsalad.rom</path>
+          <name>Warm Fuzzy - Quest For Salad</name>
+          <desc>Based on recepie the goal is to collect combination of vegetables, and put them in your basket. Once all ingredients are captured by one player, the level is scored.</desc>
+          <image>./warmfuzzyquestforsalad.png</image>
+          <rating>0</rating>
+          <releasedate>20050101T000000</releasedate>
+          <developer>Dale Wick</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <players>0-2</players>
+          <genre>Warm Fuzzy - Quest For Salad</genre>
       </game>
         <game>
           <path>./wonderboy.rom</path>
