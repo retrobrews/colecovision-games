@@ -1,0 +1,38 @@
+Canadian Minigames (2008 Wick-Foster-Bienvenu)
+
+Diamond Dash
+You are the new super miner and your goal is to extract enough diamonds in
+abandoned mines to keep your title of super miner. When you get enough
+diamonds, a signal alerts you to go back quickly to the exit at the top right of
+the screen. Each explosion generates cave-ins that can block the exit. 
+
+Easter Bunny
+Each year, the Easter Bunny (E.B. For short) is hiding decorated eggs for the
+kids. Before this happens, E.B. needs to collect the eggs in his magical world.
+This year, Mother Bird decided to teach E.B. a lesson. To save the day, help
+E.B. avoid Mother Bird's attacks and collect all the eggs on the screen.
+
+Space Hunter
+In this game, you are a heroic space fighter who has unfortunately stumbled
+into an unfriendly area of space. You are being attacked and need to defend
+yourself quickly. The game starts off slowly, but don't be fooled. Using all of
+your skills and wit you have to destroy the oncoming enemies. The waves of
+enemies seem to come from all directions at a faster and faster pace. What
+lies after the 13 waves of enemies? Only one way to find out!
+
+Get Booty
+The year is 1780 and adventure is afoot. You've just signed on to the pirate
+ship "Mermaid's Choice" as a gunner. Your job when a ship comes near is to
+use your precision gunning skills to disable the ship by hitting the base of
+their masts. The tall ships that you encounter in the Carribean Sea are
+generally of the two mast variety, and as you'd expect carry varying amounts
+of coins and jewels. Hit the ship sooner, and haul in more booty.
+
+
+
+
+Author's Comments: "This project was a collaboration of three bearded programmers. 
+The goal was to publish a minigames collection and a joystick test utility in a single cartridge."
+
+http://www.colecovision.ca
+http://www.theadamresource.com/manuals/Cartridges/Canadian%20MiniGames%20Volume%201.pdf

@@ -1,0 +1,18 @@
+Warm Fuzzy - Quest For Salad (2005 Dale Wick)
+
+Based on recepie the goal is to collect combination of vegetables, and put them in your basket.
+The player can carry up to two items at a time
+Once all ingredients are captured by one player, the level is scored.
+Some vegetables are worth more than others, or are more rare than others, non-ingredients are worthless.
+
+Map appearance is a garden with walls, water, bushes and vegetables
+- The stats are at the top show inventory
+- Holding (up to 2), Has (up to 4) and needing (up to 4)
+- The target baskets are black squares
+
+Fire buttons controls:
+– Left fire button picks up/drops in left paw.
+– Right fire button picks up/drops in right paw.
+
+http://www.colecovision.ca
+http://www.adamcon.org/~dmwick/warmfuzz/gamebalance-relayrace.pdf
