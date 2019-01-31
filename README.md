@@ -10,6 +10,7 @@ Homebrew ColecoVision North games:
  - <b>Boxxle</b> by Team Pixelboy
  - <b>Breakout</b> by Daniel Bienvenu
  - <b>Buck Rogers Super Game</b> by Team Pixelboy
+ - <b>Canadian Minigames</b> by Wick, Foster, Bienvenu
  - <b>Caverns of Titan</b> by Team Pixelboy
  - <b>Circus Charlie</b> by Team Pixelboy
  - <b>Cold Blood</b> by Team Pixelboy
@@ -27,10 +28,12 @@ Homebrew ColecoVision North games:
  - <b>Dragon's Lair</b> by Team Pixelboy
  - <b>Dungeon and trolls</b> by Michel Louvet
  - <b>Easter Bunny</b> by Daniel Bienvenu
+ - <b>Frog Magi</b> by Dale Wick
  - <b>Front Line S.C.E</b> by Team Pixelboy
  - <b>Frostbite</b> by Team Pixelboy
  - <b>Game Pack 1</b> by Daniel Bienvenu
  - <b>Game Pack 2</b> by Daniel Bienvenu
+ - <b>Get Booty</b> by Dale Wick
  - <b>GhostBlaster</b> by Daniel Bienvenu
  - <b>Girl's Garden</b> by Team Pixelboy
  - <b>Golgo 13</b> by Team Pixelboy
@@ -50,6 +53,7 @@ Homebrew ColecoVision North games:
  - <b>Konami's Ping Pong</b> by Team Pixelboy
  - <b>Kralizec Tetris</b> by Team Pixelboy
  - <b>Lock'n chase</b> by Michel Louvet
+ - <b>Maid Of The Mist</b> by Dale Wick
  - <b>Mecha-8</b> by Team Pixelboy
  - <b>Module Man</b> by Team Pixelboy
  - <b>Mopiranger</b> by Team Pixelboy
@@ -67,6 +71,7 @@ Homebrew ColecoVision North games:
  - <b>Reversi</b> by Daniel Bienvenu
  - <b>Reversi and Diamond Dash</b> by Daniel Bienvenu
  - <b>Santa Must Save Christmas</b> by Michel Louvet
+ - <b>Santa's Gift Run</b> by Dale Wick
  - <b>Schlange CV</b> by Philip Klaus Krause
  - <b>Search For The Stolen Crown Jewels</b> by Philip Klaus Krause
  - <b>Search For The Stolen Crown Jewels II</b> by Philip Klaus Krause
@@ -94,9 +99,9 @@ Homebrew ColecoVision North games:
  - <b>Valentine Game</b> by Daniel Bienvenu
  - <b>Venture</b> by Daniel Bienvenu
  - <b>Victory</b> by Daniel Bienvenu
+ - <b>Warm Fuzzy - Quest For Salad</b> by Dale Wick
  - <b>Wonder Boy</b> by Team Pixelboy
  - <b>Zaxxon Super Game</b> by Team Pixelboy
-
 
 
 *Note: The ROMs listed here have been approved for free distribution on this site/project only. If you want to share it, please contact owner/developer. Thanks!
