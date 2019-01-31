@@ -325,7 +325,7 @@
           <genre>Easter Bunny</genre>
       </game>
         <game>
-          <path>./frogmagi.rom</path>
+          <path>./frogmagi.bin</path>
           <name>Frog Magi</name>
           <desc>Fight against opponent to get higher strength. </desc>
           <image>./frogmagi.png</image>
